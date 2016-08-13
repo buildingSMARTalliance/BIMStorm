@@ -13,4 +13,3 @@ This is how [links](http://onuma.com) are added but one can also add links like 
 
 [onuma-com]: http://onuma.com
 
-Kimon Test
