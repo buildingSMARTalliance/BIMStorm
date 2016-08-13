@@ -6,7 +6,6 @@ categories: NBIMS
  
 ---
 
-
 ![image](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/NBIMS_Logo_SM.jpg?token=ADAlcTp66BvAXPi7q02fVPfXIneDrJ_Yks5XuKhNwA%3D%3D)
 
 ## National BIM Standard - United States® Version 3
@@ -19,7 +18,7 @@ categories: NBIMS
 
 _________________________
 
-####NOTE: 
+#### NOTE: 
 
 This is a test of using GitHub to manage standards development and documentation. 
 
@@ -139,7 +138,10 @@ For the purposes of this document, the following terms, definitions, symbols, un
 
 ### 5.3.3.1
 
+
 #### building information model BIM
+
+
 digital representation of physical and functional characteristics of a facility; shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle; defined as existing from earliest conception to demolition. A basic premise of BIM is collaboration by different stakeholders at different phases of the life-cycle of a facility to insert, extract, update, or modify information in the BIM to support and reflect the roles of that stakeholder.
 
 ### 5.3.3.2
@@ -149,43 +151,62 @@ digital representation of physical and functional characteristics of a facility;
 information (in numerous formats) that may be required by contract or agreement to be submitted or passed to another party
 
 ### 5.3.3.3
+
+
 #### BIM goals
 objectives used to define the potential value of BIM for a project and for project team members; goals help to define how and why BIM will be used on a project or in an organization
 
-
 ### 5.3.3.4
+
+
 #### BIM process
 generic name for the practice of performing BIM; can be planned or unplanned; may also be referred to as the BIM execution process or the BIM project execution process. The BIM project execution planning process suggests diagramming the BIM process using process maps.
 
 ### 5.3.3.5
+
+
 #### BIM process maps
 diagram of how BIM will be applied on a project; BIM project execution plan proposes two levels of process maps 1) BIM overview map and 2) detailed BIM use process maps
 
 ### 5.3.3.6
+
+
 #### BIM project execution plan (BIM plan)
 planning the results from the BIM project execution planning process; document lays out how BIM will be implemented on the project as a result of the decision of the group
 
 ### 5.3.3.7
+
+
 #### BIM project execution planning procedure
 process for planning the execution of BIM on a project; consists of four primary steps: 1) identify BIM goals and BIM uses, 2) design BIM project execution process, 3) develop information exchanges, 4) define supporting infrastructure for BIM implementation
 
 ### 5.8.3.8
+
+
 #### BIM use
 method of applying BIM during a facility's life-cycle to achieve one or more specific objectives
 
 ### 5.3.3.9
+
+
 #### detailed BIM use process maps
 comprehensive BIM process map that defines the various sequences to perform a specific application of BIM or BIM uses; identify the responsible parties for each process, reference information content, and the information exchanges which will be created and shared with other processes
 
 ### 5.3.3.10
+
+
 #### information exchange IE
 information passed from one party to another in the BIM process; parties involved should agree upon and understand what information will be exchanged; the form of deliverables from a process that will be required as a resource for future processes
 
 ### 5.3.3.11
+
+
 #### overview map
 high level BIM process map that illustrates the relationship between BIM uses to be employed on the project
 
 ### 5.3.3.12
+
+
 #### reference information
 structured information resources (enterprise and external) that assist or are required to accomplish a BIM use
 b) Business Process Mapping Notation (BPMN) Terms and Definitions 5.3.3.13
@@ -193,22 +214,32 @@ association
 used to tie information and processes with data objects; for example, an arrowhead on the association indicates a direction of flow, when appropriate
 
 ### 5.3.3.14
+
+
 #### data object
 mechanism to show how data is required or produced by activities; connected to activities through associations
 
 ### 5.3.3.15
+
+
 #### event
 occurrence the course of a business process; three types of events exist, based on when they affect the flow 1) start, 2) intermediate, and 3) end
 
 ### 5.3.3.16
+
+
 #### gateway
 used to control the divergence and convergence of sequence flow; seen as equivalent to a decision in conventional flowcharting
 
 ### 5.3.3.17
+
+
 #### group
 represents a category of information; type of grouping does not affect the sequence flow of the activities within the group; category name appears on the diagram as the group label; can be used for documentation or analysis purposes
 
 ### 5.3.3.18
+
+
 #### lane
 sub-partition within a pool and will extend the entire length of the pool, either vertically or horizontally; used to organize and categorize activities
 
