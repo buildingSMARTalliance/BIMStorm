@@ -12,3 +12,4 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 This is how [links](http://onuma.com) are added but one can also add links like [this][onuma-com]
 
 [onuma-com]: http://onuma.com
+
