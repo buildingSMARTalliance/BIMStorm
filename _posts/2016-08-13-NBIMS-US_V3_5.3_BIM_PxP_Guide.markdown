@@ -639,3 +639,12 @@ For  more  information  and  resources,  please  see  the  project  website  at:
 7.	Perlberg, B; ConsensusDOCS: Contracts Built by Consensus for the Project's Best Interest; Print; AGC; Jan 2009; Access (http://consensusdocs.org/wp- content/uploads/2009/12/CO_0102_2009_p018.pdf, 12/23/2011)
 
 8. United States Army Corps of Engineers; Building Information Modeling (BIM): A Road Map for Implementation To Support MILCON Transformation and Civil Works Projects within the U.S. Army Corps of Engineers; Print; Washington, DC, USA; United States Army Corps of Engineers; October 2006; Access (https://cadbim.usace.army.mil, 01/27/2011)
+
+________________________________________________
+
+### To comment or edit this document go to:
+
+[https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown)
+
+
+Note: You will need to be invited to view and edit on GitHub
