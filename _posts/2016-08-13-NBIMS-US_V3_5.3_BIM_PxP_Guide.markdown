@@ -15,6 +15,14 @@ categories: National BIM Standard - United States® Version 3
 #### 5.3	BIM Project Execution Planning Guide – Version 2.1
 
 
+*
+NOTE: This is a test of using GitHub to manage standards development and documentation. This test took 10 minutes to export from PDF to WORD to Markdown format into GITHUB and then automatically post to the HTML page.
+*
+
+
+
+  
+
 
 #### CONTENTS
 
@@ -631,3 +639,4 @@ For  more  information  and  resources,  please  see  the  project  website  at:
 7.	Perlberg, B; ConsensusDOCS: Contracts Built by Consensus for the Project's Best Interest; Print; AGC; Jan 2009; Access (http://consensusdocs.org/wp- content/uploads/2009/12/CO_0102_2009_p018.pdf, 12/23/2011)
 
 8. United States Army Corps of Engineers; Building Information Modeling (BIM): A Road Map for Implementation To Support MILCON Transformation and Civil Works Projects within the U.S. Army Corps of Engineers; Print; Washington, DC, USA; United States Army Corps of Engineers; October 2006; Access (https://cadbim.usace.army.mil, 01/27/2011)
+
