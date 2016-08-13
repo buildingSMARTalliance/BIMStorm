@@ -5,7 +5,7 @@ date:   2016-08-13 10:44:00 -1000
 categories: National BIM Standard - United States® Version 3                       
  
 ---
-
+![image](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/NBIMS_Logo_SM.jpg?token=ADAlcTp66BvAXPi7q02fVPfXIneDrJ_Yks5XuKhNwA%3D%3D)
 
 ## National BIM Standard - United States® Version 3
 
@@ -181,9 +181,10 @@ The BIM Project Execution Planning Guide provides a structured procedure, as dis
 
 
  
+![image](https://raw.githubusercontent.com/thomas-dalbert/BIM/ac684e49aad80302315d9e4f4e15de1358dfeab9/_files/Figure%205.3-1%20%E2%80%93%20The%20BIM%20Project%20Execution%20Planning%20Procedure.jpg?token=ADAlcVTfXcQgoUMmC4Vs7gpi8xWmdibpks5Xr2wGwA%3D%3D)
 
+*_Figure 5.3-1 – The BIM Project Execution Planning Procedure_*
 
-### Figure 5.3-1 – The BIM Project Execution Planning Procedure
 
 The goal for developing this structured procedure is to stimulate planning and direct communication by the project team during the early phases of a project. The team leading the planning process should include members from all the organizations with a significant role in the project. Since there is no single best method for BIM implementation on every project, each team must effectively design a tailored execution strategy by understanding the project goals, the project characteristics, and the capabilities of the team members.
 
