@@ -1,0 +1,621 @@
+## National BIM Standard - United States® Version 3
+
+## 5	Practice Documents
+
+
+#### 5.3	BIM Project Execution Planning Guide – Version 2.1
+
+
+
+#### CONTENTS
+
+5.3.1	Scope	2
+
+5.3.2	Normative references	2
+  
+5.3.3	Terms, definitions, symbols, units and abbreviated terms	2
+5.3.4	BIM Project Execution Planning Guide – Version 2.1, May 2011	5
+5.3.4.1 Introduction	5
+
+
+5.3.4.2.1 BIM Project Execution Planning Guide background	5
+5.3.4.3	Guide development	7
+
+
+5.3.4.3.1	Conduct detailed literature review	7
+
+
+5.3.4.3.2	Industry interviews to define primary BIM uses	7
+
+
+5.3.4.3.3	Develop the draft BIM project execution planning procedure	8
+
+5.3.4.3.4	BIM planning procedure validation and feedback	8
+
+5.3.4.3.5	Quasi-experiment	8
+
+
+5.3.4.3.6	Case study validation	9
+
+
+5.3.4.3.7	Survey BIM Guide readers and users	10
+
+
+5.3.4.3.8	Revise BIM Project Execution Planning Guide and Templates	10
+
+
+5.3.4.4	Industry acceptance of the Guide	10
+
+
+5.3.4.4.1	Traffic to website and downloads	10
+
+
+5.3.4.4.2	Categories of users implementing the Guide	11
+
+
+5.3.4.4.3	Satisfaction with Guide	11
+
+
+5.3.4.4.5	Owners requiring submission	13
+
+
+5.3.4.4.6	Opinions of Guide and resources	14
+
+
+5.3.4.5	Concluding remarks	14
+
+
+5.3.4.6	Acknowledgements	14
+
+
+5.3.4.7	Sources for Additional Information	16
+
+
+5.3.5  Bibliography	16
+
+
+
+
+### 5.3.1	Scope
+
+This section provides guidelines on a structured procedure for creating and implementing a Building Information Modeling (BIM) project execution plan. To implement BIM successfully, a project team must perform detailed and comprehensive planning. A well-documented BIM project execution plan will ensure that all parties are aware of the opportunities and responsibilities associated with the incorporation of BIM into the project workflow. A completed BIM project execution plan should define the appropriate uses for BIM on a project (e.g., design authoring, design review, and 3D coordination), along with a detailed design and documentation of the process for executing BIM throughout a facility's life-cycle. Once the plan is created, the team can follow and monitor their progress against this plan to gain the maximum benefits from BIM implementation.
+
+The four steps within the procedure include:
+
+a.	identify high value BIM uses during project planning, design, construction and operational phases;
+
+b.	design the BIM execution process by creating process maps;
+
+c.	define the BIM deliverables in the form of information exchanges;
+
+d.	develop the infrastructure in  the  form of  contracts,  communication  procedures,  technology,  and quality control to support the implementation.
+
+The goal for standardizing this structured procedure is to stimulate planning and direct communication by the project team during the early phases of a project. The planning team should include members from all the organizations with a significant role in the project. There is no single best method for implementing BIM on every project. Each team must effectively design a tailored execution strategy by understanding the project goals, the project characteristics, and the capabilities of the team members.
+
+The BIM Project Execution Planning Guide was developed by the Computer Integrated Construction Research Group at The Pennsylvania State University with generous support from The Charles Pankow Foundation, the Construction Industry Institute, The Pennsylvania State Office of Physical Plant and the Partnership for Achieving Construction Excellence.
+
+### 5.3.2	Normative references
+
+The following referenced documents are indispensable for the application of this document. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.
+
+•	BIM Uses – Project Execution Planning Guide, http://bim.psu.edu/uses
+•	BIM Project Execution Planning Guide and Templates, http://bim.psu.edu/project/resources
+•	BIM  Project  Execution  Planning  Guide  and  Templates,  BIM  Goal/Use  Analysis  Worksheet, http://bim.psu.edu/project/resources
+•	BIM  Project  Execution  Planning  Guide  and  Templates,  BIM  PxP  Process  Map  Templates, http://bim.psu.edu/project/resources
+•	BIM   Project  Execution   Planning   Guide   and   Templates,   Information   Exchange   Worksheet, http://bim.psu.edu/project/resources
+
+5.3.3	Terms, definitions, symbols, units and abbreviated terms
+ 
+
+
+For the purposes of this document, the following terms, definitions, symbols, units and abbreviated terms apply.
+
+a) Building Information Model (BIM) Terms and Definitions
+
+### 5.3.3.1
+building information model BIM
+digital representation of physical and functional characteristics of a facility; shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle; defined as existing from earliest conception to demolition. A basic premise of BIM is collaboration by different stakeholders at different phases of the life-cycle of a facility to insert, extract, update, or modify information in the BIM to support and reflect the roles of that stakeholder.
+
+### 5.3.3.2
+BIM deliverables
+information (in numerous formats) that may be required by contract or agreement to be submitted or passed to another party
+
+### 5.3.3.3
+BIM goals
+objectives used to define the potential value of BIM for a project and for project team members; goals help to define how and why BIM will be used on a project or in an organization
+
+### 5.3.3.4
+BIM process
+generic name for the practice of performing BIM; can be planned or unplanned; may also be referred to as the BIM execution process or the BIM project execution process. The BIM project execution planning process suggests diagramming the BIM process using process maps.
+
+### 5.3.3.5
+BIM process maps
+diagram of how BIM will be applied on a project; BIM project execution plan proposes two levels of process maps 1) BIM overview map and 2) detailed BIM use process maps
+
+### 5.3.3.6
+BIM project execution plan (BIM plan)
+planning the results from the BIM project execution planning process; document lays out how BIM will be implemented on the project as a result of the decision of the group
+
+### 5.3.3.7
+BIM project execution planning procedure
+process for planning the execution of BIM on a project; consists of four primary steps: 1) identify BIM goals and BIM uses, 2) design BIM project execution process, 3) develop information exchanges, 4) define supporting infrastructure for BIM implementation
+
+### 5.8.3.8
+BIM use
+method of applying BIM during a facility's life-cycle to achieve one or more specific objectives
+
+### 5.3.3.9
+detailed BIM use process maps
+ 
+
+
+ 
+
+### 5.3.4.1 Introduction
+
+BIM Project Execution Planning Guide defines a four step structured procedure for creating a BIM Project Execution Plan. The Guide was developed through a multistep research procedure that included a detailed literature review; industry expert interviews; focus group meetings; quasi-experiments; surveys; and fundamental process and information mapping tasks. After the Guide was developed, it was implemented on case study projects to evaluate the ease of implementation and identify areas for improving the core planning procedure documented in the Guide. Since the  Guide  was  originally released in October 2009, it has received broad adoption throughout the industry by numerous public and private organizations.
+
+### 5.3.4.2.1 BIM Project Execution Planning Guide background
+
+A project team must perform detailed and comprehensive planning to successfully implement BIM. A well-documented BIM Project Execution Plan helps to ensure that all parties are clearly aware of the opportunities and responsibilities associated with the incorporation of BIM into the project workflow. A completed BIM Project Execution Plan should define the appropriate uses for BIM on a project (e.g., design authoring, cost estimating, or design coordination), along with a detailed design and documentation of the process for executing BIM throughout a project’s lifecycle. Once the plan is created, the team can follow and monitor their progress against this plan to gain the maximum benefits from BIM implementation.
+
+The BIM Project Execution Planning Guide provides a structured procedure, as displayed in Figure 5.3-1, for creating and implementing a BIM Project Execution Plan. The four steps within the procedure include:
+
+1.	Identify goals and high value BIM uses during each project phase
+
+2.	Design the BIM execution process through the creation of process maps
+
+3.	Define the BIM deliverables in the form of information exchanges
+
+4.	Develop  the  infrastructure  to  support  the  implementation  such  as  contracts,  communication procedures, technology and quality control.
+ 
+
+
+ 
+
+
+### Figure 5.3-1 – The BIM Project Execution Planning Procedure
+
+The goal for developing this structured procedure is to stimulate planning and direct communication by the project team during the early phases of a project. The team leading the planning process should include members from all the organizations with a significant role in the project. Since there is no single best method for BIM implementation on every project, each team must effectively design a tailored execution strategy by understanding the project goals, the project characteristics, and the capabilities of the team members.
+
+The BIM Project Execution Planning Guide is a product of the BIM Project Execution Planning buildingSMART alliance® (bSa) Project. The Guide was developed to provide a practical manual that can be used by project teams to design their BIM strategy and develop a BIM Project Execution Plan. The core modeling and information exchange concepts have been designed to complement the long-term goals of NBIMS-US™ that can be implemented throughout the AECOO Industry to improve the efficiency and effectiveness of BIM implementation on projects. As new information exchanges are approved within the NBIMS-US™ standards effort, they can be incorporated into the defined BIM Project Execution Planning Procedure.
+
+The Building Information Modeling (BIM) Project Execution Planning Guide is directed toward readers with a fundamental understanding of BIM concepts.
+
+The eight chapters in this Guide provide:
+
+•	An overview of the BIM Project Execution Planning Procedure (Chapter One)
+•	A method to identify BIM Uses (Chapter Two)
+•	A procedure for designing the BIM Process for the project (Chapter Three)
+•	A method for defining the Information Exchange Requirements (Chapter Four)
+ 
+
+
+•	A method to define the infrastructure necessary to support the BIM Process (Chapter Five)
+•	A structured method for team implementation of the procedure through a series of meetings and intermediate tasks (Chapter Six)
+•	A  structured  method  for  individual  organizational  development  of  typical  methods  for  BIM implementation (Chapter Seven)
+•	Conclusions  and  Recommendations  for  projects  and  organizations  implemented  BIM  based  on lessons learned through the creation of the Guide (Chapter Eight)
+
+Appendices provide additional resources for implementing the BIM Project Execution Planning Procedure on a project. These resources include blank template forms for completing each step within the process (this template is also submitted as a separate document). There are also example process maps and information exchange examples for a sample project.
+
+Electronic resources are available at the project website (bim.psu.edu). These resources  include Microsoft Excel spreadsheets for various template files, a Microsoft Visio file with template process models, and an Adobe PDF template form for completing an execution plan. Project teams can use these documents to develop their BIM Project Execution Plan,  or  copy  appropriate  content  to  any customized organizational documents.
+
+### 5.3.4.3	Guide development
+
+The Guide was developed as part of a research project sponsored by the Charles Pankow Foundation, the Construction Industry Institute, the Penn State Office of Physical Plant, and the Partnership for Achieving Construction Excellence (PACE). The following sections describe the research steps that were taken to create the guide.
+
+### 5.3.4.3.1	Conduct detailed literature review
+
+This research began with a review of available literature to identify and document the core BIM definition used throughout the research along with identifying the different tasks that were being performed through the use of BIM. This literature review included peer reviewed journal articles; industry publications; books; BIM Guides from companies and associations; and online resources.
+
+### 5.3.4.3.2	Industry interviews to define primary BIM uses
+
+Semi-structured interviews were conducted with over 40 BIM experts in the industry to discuss their current use of BIM along with gaining additional information regarding each BIM use. After the initial interviews were performed, a detailed content analysis of the interview data was conducted to identify the unique BIM uses on projects. Through these interviews, 25 BIM Uses were identified along with some initial information regarding each use. Through a course project in an exploratory graduate course at Penn State, groups of students then performed a detailed study for the primary BIM uses identified through the interviews. The result of the more detailed study is a one page description for each of the 25 BIM uses. The BIM uses were also organized by project phase within the lifecycle of a project (plan, design, construct, and operate), with some of the uses spanning multiple phases. Additionally, the BIM Uses definitions were improved and updated by the following year’s graduate course.
+
+The research team created a BIM Uses analysis worksheet to assist teams when selecting which BIM Uses to implement on a project. The worksheet guides the team through considerations of each BIM Use such as the value to the project, the responsible parties, the value to the responsible party, the resources required, competencies required, and the experience required.
+ 
+
+
+### 5.3.4.3.3	Develop the draft BIM project execution planning procedure
+
+As the BIM use definitions were being finalized, a structure procedure for planning the execution of BIM on a project was being developed. This procedure development was conducted through the customization of business process engineering techniques and lean principles for  information management with a specific focus on designing a process for the efficient flow of information throughout the project lifecycle.
+
+The final BIM Project Execution Planning Procedure, which is the foundation of the BIM Project Execution Planning Guide, is a four step procedure for developing an execution plan for a project. The steps include:
+
+1.	identify BIM uses
+
+2.	design the BIM process
+
+3.	develop the BIM plan
+
+4.	define supporting infrastructure
+
+For each step, a detailed evaluation of effective and efficient methods for teams to conduct the process was performed. The methods selected where documented in the guide, and templates were developed to allow teams to easily implement the procedure.
+
+The team also considered the final structure of the future National BIM Standard-United States® (NBIMS- US™). The procedure allows a team to implement the process and information exchanges on a project today with their defined information exchanges. It is also designed to allow the flexibility to easily infuse future standard information exchange definitions into the procedure as they become available.
+
+After the research team created the process mapping procedure which is closely aligned  with  the mapping procedure for information delivery manual development, the team developed template process maps.  The level one process map template is a diagram of an extensive implementation BIM on a during a projects lifecycle. The research team also developed template diagrams a more detailed (level 2) process maps for each primary BIM Use. Detailed Level Two maps were created using case studies and focus group meetings, and were reviewed by project teams and industry professionals.
+
+### 5.3.4.3.4	BIM planning procedure validation and feedback
+
+The BIM Project Execution Planning Procedure was validated through three primary methods. The first was a quasi-experiment with students at Penn State. The second was to analyze the implementation of the procedure on 7 project case studies, 3 organizational case studies, and 3 academic case studies. The third method was to conduct surveys of practitioners who downloaded the guide to solicit their feedback. Each validation step is discussed in the following sections.
+
+### 5.3.4.3.5	Quasi-experiment
+
+To ensure that the Procedure steps and the Business Process Modeling Notation (BPMN) representation of the Process Mapping Procedure was self-explanatory, quasi-experiments were conducted with eleven graduate students from the Department of Architecture and Architectural Engineering at The Penn State University. Before conducting the quasi-experiments, a pilot study  was  performed with  two undergraduate students. Using the Process Mapping Procedure and the BPMN representation of the framework,  these  two  students  created  template  process  maps  for  3D  MEP  Coordination  and  4D
+ 
+
+
+Modeling BIM use. During the quasi-experiments, all the participants were made familiar with the process modeling notation adopted to create process maps. A post experiment survey was conducted to obtain feedback on the Process Mapping Procedure. The quasi-experiment was performed to ensure that the Process Mapping Procedure could be followed and understood to create a process map. The deviations in the process maps produced were documented as part of the content analysis and relevant changes were made to the Procedure to address the challenges.
+
+### 5.3.4.3.6	Case study validation
+
+The following Case Studies were performed:
+
+1.	Project Level Case Studies
+
+a.	Springfield Data Center
+
+b.	Moore Building
+
+c.	Henderson Building
+
+d.	Richard H. Poff U.S. Courthouse
+
+e.	UHS San Antonio
+
+f.	Millennium Science Complex
+
+g.	Hospital Project
+
+2.	Organizational Level Case Studies
+
+a.	The United States Army Corps of Engineers (USACE)
+
+b.	The Pennsylvania State University (PSU)
+
+c.	Los Angeles Community College District (LACCD)
+
+The team evaluated the value of the BIM Execution Planning Procedure according to the following steps:
+
+1.	Performed Case Study observations of the development of a BIM Plan.   A standard procedure for implementation on a project includes:
+
+a.	Meeting 1 – Identify BIM Uses to be implemented on a project (Step #1)
+
+b.	Meeting 2 – Review Project Specific Process Maps (Step #2)
+
+c.	Meeting 3 – Review Developed Information Exchanges (Step #3)
+
+d.	Meeting 4 – Review Draft BIM Plan with Team
+
+e.	BIM Plan – Version 1.0 – revisited on a periodic basis
+
+2.	Surveyed Project Team Participants regarding the value of the Procedure documented in the Guide and the final product (BIM Project Execution Plan)
+ 
+
+
+3.	Documented Case Study Content including project descriptions, process followed by the team, lessons learned, and human and project factors which influenced the success or failure of the implementation
+
+4.	Analyzed case study and survey results through detailed content analysis.   The result of this task identified potential revisions to BIM Project Execution Planning Procedure.
+
+5.	Performed BIM Project Execution Planning Guide revisions based on the analysis of the collected data.
+
+The summary level results from these case studies are documented in a report titled ‘Building Information Modeling Project Execution Planning: Second Interim Report to the Charles Pankow Foundation’. This report is referenced in the additional information category at the end of this document.
+
+Of particular note within the case study implementation is the organizational implementation in the US Army Corp of Engineers (USACE).  During this case study, members of the research team participated in a series of detailed meetings over six months in which a group of leading BIM implementers on USACE projects from industry performed a very detailed analysis of the entire BIM Project Execution Planning template. Though this process, there were many very valuable suggestions and revisions to the BIM Project Execution Planning Template and Guide.
+
+### 5.3.4.3.7	Survey BIM Guide readers and users
+
+The research team developed a survey in December 2009 to validate the BIM Project Execution Planning Procedure and BIM Uses. The survey consisted of sixteen questions focused in four primary areas: demographic information, BIM Uses, Project Execution Planning Procedure, and Comments. On a 5- point Likert scale, most survey participants responded either positive or very positive about each step of the procedure. However, the more telling result may be that only 2.6% of respondents are not likely to implement the procedure, while 14.6% of respondents were already implementing it.
+
+### 5.3.4.3.8	Revise BIM Project Execution Planning Guide and Templates
+
+Once the feedback from the case studies, surveys, and industry review was collected and analyzed, the Guide was updated and released as Draft Version 2.0 for industry review in May of 2010. This version of the Guide incorporated a new chapter on BIM Project Execution Planning for Organizations. The purpose of this chapter is to define how organizations can use the BIM Project Execution Planning procedure to develop their typical methods for BIM project implementation. In addition, the lessons learned from the case studies were incorporated into a conclusion chapter for the Guide. Examples of the lessons learned from the case study implementation include the need for a BIM champion, for owner involvement, and for an open environment of sharing and collaboration. In addition to the chapter additions, the appendix was revised to include updated BIM Project Execution Planning Templates. A glossary of definitions used throughout the Guide was also added, as well as other improvements throughout the document to address comments received from Version 1.0 and areas for improvement identified throughout the case study projects.
+
+### 5.3.4.4	Industry acceptance of the Guide
+
+The use of the BIM Project Execution Planning Guide has quickly become common practice for multiple organizations and is rapidly gaining acceptance as an industry standard within the building industry. To assist with documenting the Guide’s acceptance, a survey was distributed in May 2011 to those who have downloaded the guide – 550 responses were received. The following statistics, which are gathered from that survey and various other sources, document the current level of acceptance across the industry.
+
+### 5.3.4.4.1	Traffic to website and downloads
+ 
+
+
+Over the past month (May 2011) there have been about 1,100 unique visitors to the project website. Since it was activated the download page has had over 65,000 page views, and about 19,000 Unique Visitors. People from over 134 countries have visited the website with most (67%) of the visits from the United States.
+
+A more telling statistic is the number of downloads of the Guide and resources. Since the Guide has been made available for download in October of 2009 over 6,500 individuals have completed the form necessary to download the guide.
+
+5.3.4.4.2	Categories of users implementing the Guide
+Based on the results of the recent survey, the guide has been used by multiple stakeholders within the building industry. Figure 5.3-2 shows the various roles of those organizations (note that an organization may be a member of multiple categories):
+
+ 
+
+Figure 5.3-2 – Role of Survey Participant Organizations
+
+### 5.3.4.4.3	Satisfaction with Guide
+
+Overall the survey respondents were satisfied with the BIM Project Execution Planning Guide. Based on a 7- point Likert Scale over 85% of respondents were above neutral, with only a minimal number somewhat dissatisfied or dissatisfied (see Figure 5.3-3).
+ 
+
+Figure 5.3-3 – Level of Satisfaction with the BIM Project Execution Planning Guide
+ 
+
+
+### 5.3.4.4.4	Project and/or organizational planning
+
+The following are organizations that responded to our recent survey who have implemented the BIM Project Execution Planning Guide for developing an execution plan on at least one project or who have used the BIM Project Execution Planning Guide to plan the implementation of BIM in their organization.
+
+ 
+•	A3D
+•	AC Corporation
+•	ACAI Associates, Inc.
+•	ACCO Engineered Systems
+•	Acuna & Asociados
+•	AEC Factory
+•	AEC Infosystems, Inc
+•	AECOM
+•	Air Force Center for Engineering and the Environment
+•	Antaeus Properties Inc.
+•	Arcop
+•	Array Healthcare Facilities Solutions
+•	Array HFS
+•	Atkins NA
+•	Atlas Industries
+•	BBIX, LLC
+•	Berger Devine Yaeger
+•	Bescon Consulting Engineers PTE
+•	BMW Constructors, Inc.
+•	BNIM
+•	Burgess & Niple
+•	Buro Innen BV
+•	cadnet Limited
+•	CAD-Q
+•	Cannon Design
+•	Cell Signaling Technology, Inc.
+•	ChangeAgents AEC
+•	Clayco Inc
+•	CO Architects
+ 
+•	Cody Anderson Wasney Architects, Inc.
+•	COINS
+•	Connolly Architects, Inc.
+•	COORDENAR
+•	DCAM - Commonwealth of MA
+•	Department of Health and Human Services
+•	Department of National Defense (Canada)
+•	Department of Public Works, State of CT
+•	Design Inc Sydney
+•	DIALOG
+•	Dunaway Associates
+•	Durotech Inc.
+•	E. O: Ospedali Galliera
+•	Eigen Technical services Pvt Ltd
+•	EllisDon
+•	EV Studio
+•	EYPMCF
+•	Federal Aviation Administration
+•	Fentress Architects
+•	Flintco, LLC
+•	GA Studio
+•	Gannett Fleming
+•	GH Phipps Construction Companies
+•	Gilbane Building Co.
+•	Greer-Stafford Architecture
+•	Group2 Architecture Engineering
+ 
+•	Grunley Construction Co., Inc.
+•	Habtoor Leighton Group
+•	HAI PHU CONSTRUCTION & INVESTMENT JSC
+•	Halmar International
+•	Harvard Business School
+•	HC Yu and Associates
+•	HDR
+•	Hensel Phelps Construction Co
+•	Hewlett Packard
+•	Hill International, Inc.
+•	HKS, Inc.
+•	HNTB
+•	HOK
+•	Holder Construction Company
+•	Hunt Construction Group
+•	HuntonBrady Architects
+•	Hurtado, S. C.
+•	IES Commercial, Inc.
+•	iM STUDIOS, LLC - BIM Consultants
+•	ima design
+•	Ingenieursbureau Wassenaar
+•	Integrate Project Management Solutions SDN BHD
+•	iTech
+•	Johnson, Mirmiran & Thompson
+•	Jordani Consulting Group
+•	JY Cost Plan Consultants
+•	Kal-Blue
+ 
+
+
+ 
+•	Kasian Architecture Interior Design and Planning Ltd.
+•	KPFF Consulting Engineers
+•	KTD Engineering
+•	L&T
+•	Lark Group
+•	Lend Lease
+•	Lim Consultants, Inc.
+•	Lucrosol, Inc
+•	M&E Contractors
+•	M.Arch Architects
+•	Matt Construction Corporation
+•	Meinhardt Australia Pty Ltd
+•	Merriman Associates/Architects
+•	Messer Construction Company
+•	MOA Architecture
+•	Mortenson Construction
+•	MR1 Consulting Ltd
+•	Murray & Roberts
+•	Naval Facilities Engineering Command
+•	ONPA Architects
+•	Penta Building Group
+•	Perkins Eastman Architects
+•	Perkins+Will
+•	PJ Dick
+•	Plano-Coudon, LLC
+•	Princeton University
+ 
+•	Proactive Controls Group
+•	Raleigh Mechanical and Metals
+•	RATIO Architects, Inc.
+•	Rice Daubney
+•	RMF Engineering Inc
+•	RP aec
+•	RTKL Associates Inc
+•	Samara State Architectural and Civil Engineering University
+•	Satterfield & Pontikes Construction, Inc.
+•	Saudi Oger Limited
+•	schmidt hammer lassen architects
+•	Siena Construction Corp
+•	Skanska USA Building
+•	Skidmore, Owings & Merrill LLP
+•	Slaterpaull Architects
+•	Smithgroup Architecture
+•	SMMA
+•	Southland Industries
+•	Stor-Con Co., Inc.
+•	Straub Construction
+•	STV Incorporated
+•	Sulpher Consulting Ltd.
+•	Sundt Construction, Inc.
+•	SWBR Architects
+•	Swinerton Builders
+•	Tarlton Corporation
+•	TDIndustries
+•	Thalden Boyd Emery Architects
+ 
+•	The Christman Company
+•	The Hartman + Majewski Design Group
+•	The Neenan Company
+* The Renschler Company
+* The Weitz Company
+* TLC Engineering for Architecture
+* Tocci Building Corporation
+* Torti Gallas and Partners, Inc.
+* TRO Jung|Brannene
+* Turner Construction Company
+* University of Nebraska- Lincoln
+* US Air Force
+* US Army - Corps of Engineers, Omaha District
+* Vanir Construction Management
+* Venkataramanan Associates
+* Vircop building systems
+* VOA ASSOCIATES
+* W.E. O'Neil
+* Walbridge
+* Walmart Stores, Inc.
+•	* Weston Solutions Inc
+* Wiley|Wilson
+* Winstone Consulting
+* WSBP
+* WSP Sweden
+
+* Zachry Construction / ZVL
+
+ 
+
+### 5.3.4.4.5	Owners requiring submission
+
+Since the start of this project a number of large organizations have been using the Guide. Some organizations have adopted the concepts embedded in the Guide as part of their standard project requirements.  While additional owner organization may be requiring the use of the Guide, the following is a list of four owner organization that have confirmed this requirement:
+ 
+
+
+* US Army Corps of Engineers (embedded into Attachment F);
+* US Air Force;
+* Penn State Office of Physical Plant; and
+* Division of Capital Asset Management Commonwealth of Massachusetts.
+
+### 5.3.4.4.6	Opinions of Guide and resources
+
+As part of the survey to study the degree of implementation, the survey participants were asked to respond to an open-ended question regarding their opinion of the Guide and the corresponding BIM Project Execution Planning Templates. The following are quotes from the responses:
+
+•	It is a great tool in educating people unfamiliar with BIM on the vast amount of information needed at the beginning of the job, proving its benefits by clear direction and information that makes the BIM process more efficient.
+•	Just like every building needs a strong foundation, so too do your BIM Plans. The BIM Project Execution Guide is the foundation we needed to build our unique project plans. A valuable resource and a fundamental piece of our BIM / VCD programs.
+•	The BIM Planning guide with the templates is a very informative document that will aid any company with the implementation of a BIM Project
+•	It provided a framework through which the client could better understand the various stages that implementation of BIM would impact on, allowing them to see the potential benefits up front and provide a relevant budget to allow for implementation.
+•	The work done at Penn State on the BIM Execution Plan has provided a valuable framework for the implementation of BIM.
+•	The BIM planning guide has given us useful information necessary to execute the modeling of one of our premier projects. Very easy to use and understand.
+•	I have used project execution plans on a number of major projects. It is necessary to produce and get buy in from all stakeholders if you are going to stand any chance of completing a successful project. The move to a BIM execution plans performs the same purpose of getting everybody understanding what is required of them and also to set the level of achievable targets for the project success.
+•	The BIM Execution planning guide helped provide the road map for all team members and help communicate the process and end results we want to achieve.
+•	The Template BIM PxP and Project BIM Execution Planning Guide have been great resources for our company to promote having an early conversation about project BIM implementation on our project.
+•	The BIM Execution Planning guide is a critical step in the maturity of the facilities industry and must be promulgated to as many entities in the facilities industry as is possible.
+
+### Concluding remarks
+
+The BIM Project Execution Planning Guide provides a method for project teams and organizations to plan the execution of BIM using formal, standard processes. Based on the level of industry acceptance, the value of the defined procedure, and the rigorous methodology used to develop the Guide, we request that the BIM Project Execution Planning Guide be accepted as a practice standard within NBIMS-US™.
+
+
+### Acknowledgements
+
+We wish to thank the sponsors for the Guide development which include:
+ 
+
+
+•	The Charles Pankow Foundation;
+•	The Construction Industry Institute;
+•	The Pennsylvania State University, Office of Physical Plant; and
+•	The Partnership for Achieving Construction Excellence at Penn State. We would also like to thank the Advisory Board Members which include:
+•	Deke Smith, Executive Director of buildingSMART alliance® (Industry Champion)
+•	Victor Sanvido, Ph.D., Senior Vice President, Southland Industries (Industry Champion)
+•	Mark Butler, Chair, US National CAD Standard Project Committee, Systems Integration Manager, and Senior Professional Associate, HDR, Inc.
+•	Derek Cunz, Director of Project Development, Mortenson Construction
+•	Mark Falzarano, CAD Coordinator, Barton Malow Company
+•	Ed Gannon, Manager of Design Services, Penn State Office of Physical Plant
+•	Greg Gidez, Corporate Design Manager, Hensel Phelps Construction Co.
+•	Francois Grobler, Ph.D., US Army CERL and IAI - North America
+•	Steve Hagan, Project Knowledge Center, U.S. General Services Administration
+•	Steve Hutsell, Chief, Geospatial Section, Seattle District, US Army Corps of Engineers
+•	Mark Konchar, Vice President, Balfour Beatty Construction
+•	Soad Kousheshi, President, AEC Strategy
+•	Robert Leicht, Ph.D., BIM Project Manager, DPR Constructors
+•	Kurt Maldovan, Balfour Beatty Construction
+•	Alexander Zolotov, Skanska
+
+And we would like to recognize the primary authors of the BIM Project Execution Planning Guide which include:
+
+•	John Messner (Principle Investigator), Director, CIC Research Program and Associate Professor of Architectural Engineering, Penn State
+•	Chimay  Anumba  (Co-Principle  Investigator),  Professor  and  Head,  Department  of  Architectural Engineering, Penn State
+•	Craig Dubler, Graduate Research Assistant, Penn State
+•	Shane Goodman, former MAE/BAE student, Penn State
+•	Colleen Kasprzak, Graduate Research Assistant, Penn State
+•	Ralph Kreider, Graduate Research Assistant, Penn State
+•	Robert Leicht, Assistant Professor of Architectural Engineering, Penn State
+•	Chitwan Saluja, former Graduate Research Assistant, Penn State
+•	Nevena Zikic, former Graduate Research Assistant, Penn State
+ 
+
+
+### 5.3.4.7	Sources for Additional Information
+
+For  more  information  and  resources,  please  see  the  project  website  at:  bim.psu.edu.  Additional information on the creation of the guide can be located in the following publications:
+
+•	Computer Integrated Construction Research Program. (2010). BIM  Project  Execution  Planning Guide: Final Research Methods Report, The Charles Pankow Foundation, Claremont CA (available at http://www.pankowfoundation.org/grants.cfm and in the supplemental documents folder)
+
+•	Computer Integrated Construction Research Program. (2010). BIM  Project  Execution  Planning Guide: Second Interim Research Report, The Charles Pankow Foundation, Claremont CA (available in the supplemental documents folder)
+
+•	Computer Integrated Construction Research Program. (Submitted for Review). Project Execution Planning for Building Information Modeling: Research Report. The Construction Industry Institute, Austin, TX, USA.
+
+•	Computer Integrated Construction Research Program. (2010). Project Execution Planning for Building Information Modeling. The Construction Industry Institute, Austin, TX, USA, 21 Pages.
+
+### 5.3.5  Bibliography
+
+1.	American Institute of Architects; Model Progression Specification for BIM; Print; 2008; American Institute of Architects; Sacramento, CA, USA; Access (http://ipd-ca.net, 4/20/2009)
+
+2.	AutoDesk; Autodesk Communication Specifications; Print; San Rafael, California; AutoDesk, Inc; 2008; Access (http://www.thecadstore.com/pdf/autodesk_communication_specification.pdf; 06/06/2011)
+
+3.	Fallon, K., & Palmer, M; General Buildings Information Handover Guide: Principles, Methodology, and Case Studies; Print; Washington, D.C.; National Institute of Standards and Technology; August 2007; Access (http://www.wbdg.org/pdfs/nistir_7417.pdf; 12/23/2011)
+
+4.	Larson, D., & Golden, K; Entering the Brave New World: An Introduction to Contracting BIM; Print; January 1, 2008; Access (http://www.mortenson.com/Resources/Images/6102.pdf, 12/23/2011)
+
+5.	Lowe, R., & Muncey, J; The ConsensusDOCS 301 BIM Addendum; Print; Forum on the Construction Industry; The Fairmont Chicago-Chicago, IL, USA; American Bar Association; 2008; Access (http://www.legalist.com/chicago2008/articles/Plenary5.pdf, 12/23/2011)
+
+6.	National Institute of Building Sciences; United States National Building Information Modeling Standard: Version 1-part 1 Overview, Principles, and Methodologies. National Institute of Building Sciences; Print; Version 1-part 1; Washington, D.C., USA; National Institute of Building Sciences; December 2007; Access (http://www.wbdg.org/pdfs/NBIMSv1_p1.pdf, 06/16/2011)
+
+7.	Perlberg, B; ConsensusDOCS: Contracts Built by Consensus for the Project's Best Interest; Print; AGC; Jan 2009; Access (http://consensusdocs.org/wp- content/uploads/2009/12/CO_0102_2009_p018.pdf, 12/23/2011)
+
+8. United States Army Corps of Engineers; Building Information Modeling (BIM): A Road Map for Implementation To Support MILCON Transformation and Civil Works Projects within the U.S. Army Corps of Engineers; Print; Washington, DC, USA; United States Army Corps of Engineers; October 2006; Access (https://cadbim.usace.army.mil, 01/27/2011)
