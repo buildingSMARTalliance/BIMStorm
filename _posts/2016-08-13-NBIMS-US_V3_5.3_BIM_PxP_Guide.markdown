@@ -14,9 +14,26 @@ categories: National BIM Standard - United States® Version 3
 
 #### 5.3	BIM Project Execution Planning Guide – Version 2.1
 
-*
-NOTE: This is a test of using GitHub to manage standards development and documentation. This test took 10 minutes to export from PDF to [WORD](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx) to Markdown format into GITHUB and then automatically post to the HTML page. Not all formatting is complete, such as bullets etc. The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
-*
+
+####NOTE: 
+
+This is a test of using GitHub to manage standards development and documentation. 
+
+This test took 10 minutes to: 
+
+* Export from PDF 
+* to [WORD](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx) 
+* to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
+* do some minor formatting 
+* Post to GITHUB
+* Import images
+* Automatically post to the [HTML page](https://thomas-dalbert.github.io/BIM/national/bim/standard/-/united/states%C2%AE/version/3/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Guide.html). 
+
+Not all formatting is complete, such as bullets etc. 
+The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
+
+
+
 
 
 
