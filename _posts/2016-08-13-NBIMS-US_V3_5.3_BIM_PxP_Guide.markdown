@@ -26,8 +26,14 @@ This test took 10 minutes to:
 
 * Export from [PDF](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.pdf) 
 * to [MS Word](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx)
-* to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-* do some minor formatting 
+* to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* There are various Markdown editors:
+	* [ MOU for Mac](http://25.io/mou/)
+	* [	Writage for MS Word
+](http://www.writage.com/)
+	* [Google Docs Plug In](https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US)
+
+* Did some minor formatting 
 * Post to [GitHub](https://github.com) Where editing, commenting and versions can be managed for updates. 
 * As changes are made in GitHub and committed they are automatically viewable using [Jekyll.](https://jekyllrb.com)
 * Posted [inline images to GitHub](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/Figure%205.3-1%20%E2%80%93%20The%20BIM%20Project%20Execution%20Planning%20Procedure.jpg?token=ADAlcfikGZXQbxTyKqn2qMqEoJvWym8Qks5XuKjrwA%3D%3D) and linked back to this document.
