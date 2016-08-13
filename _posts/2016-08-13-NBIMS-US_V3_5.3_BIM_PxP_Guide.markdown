@@ -1,3 +1,13 @@
+---
+layout: post
+title:  "5.3	BIM Project Execution Planning Guide – Version 2.1"
+date:   2016-08-13 13:05:00 -1000
+categories: NBIMS Testing                       
+ 
+---
+
+
+
 ![image](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/NBIMS_Logo_SM.jpg?token=ADAlcTp66BvAXPi7q02fVPfXIneDrJ_Yks5XuKhNwA%3D%3D)
 
 ## National BIM Standard - United States® Version 3
