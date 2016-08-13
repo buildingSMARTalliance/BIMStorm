@@ -138,6 +138,7 @@ For the purposes of this document, the following terms, definitions, symbols, un
 ### a) Building Information Model (BIM) Terms and Definitions
 
 ### 5.3.3.1
+
 #### building information model BIM
 digital representation of physical and functional characteristics of a facility; shared knowledge resource for information about a facility forming a reliable basis for decisions during its life-cycle; defined as existing from earliest conception to demolition. A basic premise of BIM is collaboration by different stakeholders at different phases of the life-cycle of a facility to insert, extract, update, or modify information in the BIM to support and reflect the roles of that stakeholder.
 
