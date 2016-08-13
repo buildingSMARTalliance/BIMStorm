@@ -145,6 +145,7 @@ digital representation of physical and functional characteristics of a facility;
 ### 5.3.3.2
 
 #### BIM deliverables
+
 information (in numerous formats) that may be required by contract or agreement to be submitted or passed to another party
 
 ### 5.3.3.3
