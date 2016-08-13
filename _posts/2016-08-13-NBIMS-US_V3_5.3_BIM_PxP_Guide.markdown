@@ -25,7 +25,7 @@ This test took 10 minutes to:
 * to [WORD](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx) 
 * to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 * do some minor formatting 
-* Post to GITHUB
+* Post to GitHub
 * Import images
 * Automatically post to the [HTML page](https://thomas-dalbert.github.io/BIM/national/bim/standard/-/united/states%C2%AE/version/3/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Guide.html). 
 
