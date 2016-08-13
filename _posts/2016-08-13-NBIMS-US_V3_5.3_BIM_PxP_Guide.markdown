@@ -20,7 +20,7 @@ categories: NBIMS Testing
 
 _________________________
 
-####NOTE: 
+#### NOTE: 
 
 This is a test of using GitHub to manage standards development and documentation. 
 
