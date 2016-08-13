@@ -144,13 +144,14 @@ digital representation of physical and functional characteristics of a facility;
 
 ### 5.3.3.2
 
-#### BIM deliverables
 
+#### BIM deliverables
 information (in numerous formats) that may be required by contract or agreement to be submitted or passed to another party
 
 ### 5.3.3.3
 #### BIM goals
 objectives used to define the potential value of BIM for a project and for project team members; goals help to define how and why BIM will be used on a project or in an organization
+
 
 ### 5.3.3.4
 #### BIM process
