@@ -1,10 +1,3 @@
----
-layout: post
-title:  "5.3	BIM Project Execution Planning Guide – Version 2.1"
-date:   2016-08-13 10:44:00 -1000
-categories: National BIM Standard - United States® Version 3                       
- 
----
 ![image](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/NBIMS_Logo_SM.jpg?token=ADAlcTp66BvAXPi7q02fVPfXIneDrJ_Yks5XuKhNwA%3D%3D)
 
 ## National BIM Standard - United States® Version 3
@@ -15,100 +8,83 @@ categories: National BIM Standard - United States® Version 3
 #### 5.3	BIM Project Execution Planning Guide – Version 2.1
 
 
+_________________________
+
 ####NOTE: 
 
 This is a test of using GitHub to manage standards development and documentation. 
 
 This test took 10 minutes to: 
 
-* Export from PDF 
-* to [WORD](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx) 
+* Export from [PDF](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.pdf) 
+* to [MS Word](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx)
 * to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 * do some minor formatting 
-* Post to GitHub
+* Post to [GitHub](https://github.com)
 * Import images
 * Automatically post to the [HTML page](https://thomas-dalbert.github.io/BIM/national/bim/standard/-/united/states%C2%AE/version/3/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Guide.html). 
 
-Not all formatting is complete, such as bullets etc. 
-
+* Not all formatting is complete, such as bullets etc. 
 * The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
+* Test initiated by Kimon Onuma, Chair of Thought Leadership - buidlingSMARTalliance 8.13.16 - Input Welcome!
 
 
-
-
-
-
-
+_________________________
 
   
 
 
 #### CONTENTS
 
-5.3.1	Scope	2
+5.3.1	Scope	
 
-5.3.2	Normative references	2
+5.3.2	Normative references	
   
-5.3.3	Terms, definitions, symbols, units and abbreviated terms	2
+5.3.3	Terms, definitions, symbols, units and abbreviated terms	
 5.3.4	BIM Project Execution Planning Guide – Version 2.1, May 2011	5
-5.3.4.1 Introduction	5
+5.3.4.1 Introduction	
 
 
-5.3.4.2.1 BIM Project Execution Planning Guide background	5
-5.3.4.3	Guide development	7
+5.3.4.2.1 BIM Project Execution Planning Guide background	
+5.3.4.3	Guide development	
 
 
-5.3.4.3.1	Conduct detailed literature review	7
+5.3.4.3.1	Conduct detailed literature review	
 
 
-5.3.4.3.2	Industry interviews to define primary BIM uses	7
+5.3.4.3.2	Industry interviews to define primary BIM uses
 
+5.3.4.3.3	Develop the draft BIM project execution planning procedure
 
-5.3.4.3.3	Develop the draft BIM project execution planning procedure	8
+5.3.4.3.4	BIM planning procedure validation and feedback
 
-5.3.4.3.4	BIM planning procedure validation and feedback	8
+5.3.4.3.5	Quasi-experiment
 
-5.3.4.3.5	Quasi-experiment	8
+5.3.4.3.6	Case study validation
 
+5.3.4.3.7	Survey BIM Guide readers and users
 
-5.3.4.3.6	Case study validation	9
+5.3.4.3.8	Revise BIM Project Execution Planning Guide and Templates
 
+5.3.4.4	Industry acceptance of the Guide
 
-5.3.4.3.7	Survey BIM Guide readers and users	10
+5.3.4.4.1	Traffic to website and downloads
 
+5.3.4.4.2	Categories of users implementing the Guide
 
-5.3.4.3.8	Revise BIM Project Execution Planning Guide and Templates	10
+5.3.4.4.3	Satisfaction with Guide	
 
+5.3.4.4.5	Owners requiring submission	
 
-5.3.4.4	Industry acceptance of the Guide	10
+5.3.4.4.6	Opinions of Guide and resources	
 
+5.3.4.5	Concluding remarks
 
-5.3.4.4.1	Traffic to website and downloads	10
+5.3.4.6	Acknowledgements	
 
+5.3.4.7	Sources for Additional Information	
 
-5.3.4.4.2	Categories of users implementing the Guide	11
-
-
-5.3.4.4.3	Satisfaction with Guide	11
-
-
-5.3.4.4.5	Owners requiring submission	13
-
-
-5.3.4.4.6	Opinions of Guide and resources	14
-
-
-5.3.4.5	Concluding remarks	14
-
-
-5.3.4.6	Acknowledgements	14
-
-
-5.3.4.7	Sources for Additional Information	16
-
-
-5.3.5  Bibliography	16
-
+5.3.5  Bibliography	
 
 
 
@@ -384,153 +360,145 @@ Figure 5.3-3 – Level of Satisfaction with the BIM Project Execution Planning G
 The following are organizations that responded to our recent survey who have implemented the BIM Project Execution Planning Guide for developing an execution plan on at least one project or who have used the BIM Project Execution Planning Guide to plan the implementation of BIM in their organization.
 
  
-•	A3D
-•	AC Corporation
-•	ACAI Associates, Inc.
-•	ACCO Engineered Systems
-•	Acuna & Asociados
-•	AEC Factory
-•	AEC Infosystems, Inc
-•	AECOM
-•	Air Force Center for Engineering and the Environment
-•	Antaeus Properties Inc.
-•	Arcop
-•	Array Healthcare Facilities Solutions
-•	Array HFS
-•	Atkins NA
-•	Atlas Industries
-•	BBIX, LLC
-•	Berger Devine Yaeger
-•	Bescon Consulting Engineers PTE
-•	BMW Constructors, Inc.
-•	BNIM
-•	Burgess & Niple
-•	Buro Innen BV
-•	cadnet Limited
-•	CAD-Q
-•	Cannon Design
-•	Cell Signaling Technology, Inc.
-•	ChangeAgents AEC
-•	Clayco Inc
-•	CO Architects
- 
-•	Cody Anderson Wasney Architects, Inc.
-•	COINS
-•	Connolly Architects, Inc.
-•	COORDENAR
-•	DCAM - Commonwealth of MA
-•	Department of Health and Human Services
-•	Department of National Defense (Canada)
-•	Department of Public Works, State of CT
-•	Design Inc Sydney
-•	DIALOG
-•	Dunaway Associates
-•	Durotech Inc.
-•	E. O: Ospedali Galliera
-•	Eigen Technical services Pvt Ltd
-•	EllisDon
-•	EV Studio
-•	EYPMCF
-•	Federal Aviation Administration
-•	Fentress Architects
-•	Flintco, LLC
-•	GA Studio
-•	Gannett Fleming
-•	GH Phipps Construction Companies
-•	Gilbane Building Co.
-•	Greer-Stafford Architecture
-•	Group2 Architecture Engineering
- 
-•	Grunley Construction Co., Inc.
-•	Habtoor Leighton Group
-•	HAI PHU CONSTRUCTION & INVESTMENT JSC
-•	Halmar International
-•	Harvard Business School
-•	HC Yu and Associates
-•	HDR
-•	Hensel Phelps Construction Co
-•	Hewlett Packard
-•	Hill International, Inc.
-•	HKS, Inc.
-•	HNTB
-•	HOK
-•	Holder Construction Company
-•	Hunt Construction Group
-•	HuntonBrady Architects
-•	Hurtado, S. C.
-•	IES Commercial, Inc.
-•	iM STUDIOS, LLC - BIM Consultants
-•	ima design
-•	Ingenieursbureau Wassenaar
-•	Integrate Project Management Solutions SDN BHD
-•	iTech
-•	Johnson, Mirmiran & Thompson
-•	Jordani Consulting Group
-•	JY Cost Plan Consultants
-•	Kal-Blue
- 
-
-
- 
-•	Kasian Architecture Interior Design and Planning Ltd.
-•	KPFF Consulting Engineers
-•	KTD Engineering
-•	L&T
-•	Lark Group
-•	Lend Lease
-•	Lim Consultants, Inc.
-•	Lucrosol, Inc
-•	M&E Contractors
-•	M.Arch Architects
-•	Matt Construction Corporation
-•	Meinhardt Australia Pty Ltd
-•	Merriman Associates/Architects
-•	Messer Construction Company
-•	MOA Architecture
-•	Mortenson Construction
-•	MR1 Consulting Ltd
-•	Murray & Roberts
-•	Naval Facilities Engineering Command
-•	ONPA Architects
-•	Penta Building Group
-•	Perkins Eastman Architects
-•	Perkins+Will
-•	PJ Dick
-•	Plano-Coudon, LLC
-•	Princeton University
- 
-•	Proactive Controls Group
-•	Raleigh Mechanical and Metals
-•	RATIO Architects, Inc.
-•	Rice Daubney
-•	RMF Engineering Inc
-•	RP aec
-•	RTKL Associates Inc
-•	Samara State Architectural and Civil Engineering University
-•	Satterfield & Pontikes Construction, Inc.
-•	Saudi Oger Limited
-•	schmidt hammer lassen architects
-•	Siena Construction Corp
-•	Skanska USA Building
-•	Skidmore, Owings & Merrill LLP
-•	Slaterpaull Architects
-•	Smithgroup Architecture
-•	SMMA
-•	Southland Industries
-•	Stor-Con Co., Inc.
-•	Straub Construction
-•	STV Incorporated
-•	Sulpher Consulting Ltd.
-•	Sundt Construction, Inc.
-•	SWBR Architects
-•	Swinerton Builders
-•	Tarlton Corporation
-•	TDIndustries
-•	Thalden Boyd Emery Architects
- 
-•	The Christman Company
-•	The Hartman + Majewski Design Group
-•	The Neenan Company
+* A3D
+* AC Corporation
+* ACAI Associates, Inc.
+* ACCO Engineered Systems
+* Acuna & Asociados
+* AEC Factory
+* AEC Infosystems, Inc
+* AECOM
+* Air Force Center for Engineering and the Environment
+* Antaeus Properties Inc.
+* Arcop
+* Array Healthcare Facilities Solutions
+* Array HFS
+* Atkins NA
+* Atlas Industries
+* BBIX, LLC
+* Berger Devine Yaeger
+* Bescon Consulting Engineers PTE
+* BMW Constructors, Inc.
+* BNIM
+* Burgess & Niple
+* Buro Innen BV
+* cadnet Limited
+* CAD-Q
+* Cannon Design
+* Cell Signaling Technology, Inc.
+* ChangeAgents AEC
+* Clayco Inc
+* CO Architects
+* Cody Anderson Wasney Architects, Inc.
+* COINS
+* Connolly Architects, Inc.
+* COORDENAR
+* DCAM - Commonwealth of MA
+* Department of Health and Human Services
+* Department of National Defense (Canada)
+* Department of Public Works, State of CT
+* Design Inc Sydney
+* DIALOG
+* Dunaway Associates
+* Durotech Inc.
+* E. O: Ospedali Galliera
+* Eigen Technical services Pvt Ltd
+* EllisDon
+* EV Studio
+* EYPMCF
+* Federal Aviation Administration
+* Fentress Architects
+* Flintco, LLC
+* GA Studio
+* Gannett Fleming
+* GH Phipps Construction Companies
+* Gilbane Building Co.
+* Greer-Stafford Architecture
+* Group2 Architecture Engineering
+* Grunley Construction Co., Inc.
+* Habtoor Leighton Group
+* HAI PHU CONSTRUCTION & INVESTMENT JSC
+* Halmar International
+* Harvard Business School
+* HC Yu and Associates
+* HDR
+* Hensel Phelps Construction Co
+* Hewlett Packard
+* Hill International, Inc.
+* HKS, Inc.
+* HNTB
+* HOK
+* Holder Construction Company
+* Hunt Construction Group
+* HuntonBrady Architects
+* Hurtado, S. C.
+* IES Commercial, Inc.
+* iM STUDIOS, LLC - BIM Consultants
+* ima design
+* Ingenieursbureau Wassenaar
+* Integrate Project Management Solutions SDN BHD
+* iTech
+* Johnson, Mirmiran & Thompson
+* Jordani Consulting Group
+* JY Cost Plan Consultants
+* Kal-Blue
+* Kasian Architecture Interior Design and Planning Ltd.
+* KPFF Consulting Engineers
+* KTD Engineering
+* L&T
+* Lark Group
+* Lend Lease
+* Lim Consultants, Inc.
+* Lucrosol, Inc
+* M&E Contractors
+* M.Arch Architects
+* Matt Construction Corporation
+* Meinhardt Australia Pty Ltd
+* Merriman Associates/Architects
+* Messer Construction Company
+* MOA Architecture
+* Mortenson Construction
+* MR1 Consulting Ltd
+* Murray & Roberts
+* Naval Facilities Engineering Command
+* ONPA Architects
+* Penta Building Group
+* Perkins Eastman Architects
+* Perkins+Will
+* PJ Dick
+* Plano-Coudon, LLC
+* Princeton University
+* Proactive Controls Group
+* Raleigh Mechanical and Metals
+* RATIO Architects, Inc.
+* Rice Daubney
+* RMF Engineering Inc
+* RP aec
+* RTKL Associates Inc
+* Samara State Architectural and Civil Engineering University
+* Satterfield & Pontikes Construction, Inc.
+* Saudi Oger Limited
+* schmidt hammer lassen architects
+* Siena Construction Corp
+* Skanska USA Building
+* Skidmore, Owings & Merrill LLP
+* Slaterpaull Architects
+* Smithgroup Architecture
+* SMMA
+* Southland Industries
+* Stor-Con Co., Inc.
+* Straub Construction
+* STV Incorporated
+* Sulpher Consulting Ltd.
+* Sundt Construction, Inc.
+* SWBR Architects
+* Swinerton Builders
+* Tarlton Corporation
+* TDIndustries
+* Thalden Boyd Emery Architects
+* The Christman Company
+* The Hartman + Majewski Design Group
+* The Neenan Company
 * The Renschler Company
 * The Weitz Company
 * TLC Engineering for Architecture
@@ -548,12 +516,11 @@ The following are organizations that responded to our recent survey who have imp
 * W.E. O'Neil
 * Walbridge
 * Walmart Stores, Inc.
-•	* Weston Solutions Inc
+* Weston Solutions Inc
 * Wiley|Wilson
 * Winstone Consulting
 * WSBP
 * WSP Sweden
-
 * Zachry Construction / ZVL
 
  
@@ -592,40 +559,39 @@ The BIM Project Execution Planning Guide provides a method for project teams and
 ### Acknowledgements
 
 We wish to thank the sponsors for the Guide development which include:
- 
 
 
-•	The Charles Pankow Foundation;
-•	The Construction Industry Institute;
-•	The Pennsylvania State University, Office of Physical Plant; and
-•	The Partnership for Achieving Construction Excellence at Penn State. We would also like to thank the Advisory Board Members which include:
-•	Deke Smith, Executive Director of buildingSMART alliance® (Industry Champion)
-•	Victor Sanvido, Ph.D., Senior Vice President, Southland Industries (Industry Champion)
-•	Mark Butler, Chair, US National CAD Standard Project Committee, Systems Integration Manager, and Senior Professional Associate, HDR, Inc.
-•	Derek Cunz, Director of Project Development, Mortenson Construction
-•	Mark Falzarano, CAD Coordinator, Barton Malow Company
-•	Ed Gannon, Manager of Design Services, Penn State Office of Physical Plant
-•	Greg Gidez, Corporate Design Manager, Hensel Phelps Construction Co.
-•	Francois Grobler, Ph.D., US Army CERL and IAI - North America
-•	Steve Hagan, Project Knowledge Center, U.S. General Services Administration
-•	Steve Hutsell, Chief, Geospatial Section, Seattle District, US Army Corps of Engineers
-•	Mark Konchar, Vice President, Balfour Beatty Construction
-•	Soad Kousheshi, President, AEC Strategy
-•	Robert Leicht, Ph.D., BIM Project Manager, DPR Constructors
-•	Kurt Maldovan, Balfour Beatty Construction
-•	Alexander Zolotov, Skanska
+* The Charles Pankow Foundation;
+* The Construction Industry Institute;
+* The Pennsylvania State University, Office of Physical Plant; and
+* The Partnership for Achieving Construction Excellence at Penn State. We would also like to thank the Advisory Board Members which include:
+* Deke Smith, Executive Director of buildingSMART alliance® (Industry Champion)
+* Victor Sanvido, Ph.D., Senior Vice President, Southland Industries (Industry Champion)
+* Mark Butler, Chair, US National CAD Standard Project Committee, Systems Integration Manager, and Senior Professional Associate, HDR, Inc.
+* Derek Cunz, Director of Project Development, Mortenson Construction
+* Mark Falzarano, CAD Coordinator, Barton Malow Company
+* Ed Gannon, Manager of Design Services, Penn State Office of Physical Plant
+* Greg Gidez, Corporate Design Manager, Hensel Phelps Construction Co.
+* Francois Grobler, Ph.D., US Army CERL and IAI - North America
+* Steve Hagan, Project Knowledge Center, U.S. General Services Administration
+* Steve Hutsell, Chief, Geospatial Section, Seattle District, US Army Corps of Engineers
+* Mark Konchar, Vice President, Balfour Beatty Construction
+* Soad Kousheshi, President, AEC Strategy
+* Robert Leicht, Ph.D., BIM Project Manager, DPR Constructors
+* Kurt Maldovan, Balfour Beatty Construction
+* Alexander Zolotov, Skanska
 
 And we would like to recognize the primary authors of the BIM Project Execution Planning Guide which include:
 
-•	John Messner (Principle Investigator), Director, CIC Research Program and Associate Professor of Architectural Engineering, Penn State
-•	Chimay  Anumba  (Co-Principle  Investigator),  Professor  and  Head,  Department  of  Architectural Engineering, Penn State
-•	Craig Dubler, Graduate Research Assistant, Penn State
-•	Shane Goodman, former MAE/BAE student, Penn State
-•	Colleen Kasprzak, Graduate Research Assistant, Penn State
-•	Ralph Kreider, Graduate Research Assistant, Penn State
-•	Robert Leicht, Assistant Professor of Architectural Engineering, Penn State
-•	Chitwan Saluja, former Graduate Research Assistant, Penn State
-•	Nevena Zikic, former Graduate Research Assistant, Penn State
+* John Messner (Principle Investigator), Director, CIC Research Program and Associate Professor of Architectural Engineering, Penn State
+* Chimay  Anumba  (Co-Principle  Investigator),  Professor  and  Head,  Department  of  Architectural Engineering, Penn State
+* Craig Dubler, Graduate Research Assistant, Penn State
+* Shane Goodman, former MAE/BAE student, Penn State
+* Colleen Kasprzak, Graduate Research Assistant, Penn State
+* Ralph Kreider, Graduate Research Assistant, Penn State
+* Robert Leicht, Assistant Professor of Architectural Engineering, Penn State
+* Chitwan Saluja, former Graduate Research Assistant, Penn State
+* Nevena Zikic, former Graduate Research Assistant, Penn State
  
 
 
@@ -658,4 +624,3 @@ For  more  information  and  resources,  please  see  the  project  website  at:
 7.	Perlberg, B; ConsensusDOCS: Contracts Built by Consensus for the Project's Best Interest; Print; AGC; Jan 2009; Access (http://consensusdocs.org/wp- content/uploads/2009/12/CO_0102_2009_p018.pdf, 12/23/2011)
 
 8. United States Army Corps of Engineers; Building Information Modeling (BIM): A Road Map for Implementation To Support MILCON Transformation and Civil Works Projects within the U.S. Army Corps of Engineers; Print; Washington, DC, USA; United States Army Corps of Engineers; October 2006; Access (https://cadbim.usace.army.mil, 01/27/2011)
-
