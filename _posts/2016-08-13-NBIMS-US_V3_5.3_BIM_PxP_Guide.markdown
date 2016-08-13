@@ -36,8 +36,8 @@ This test took 10 minutes to:
 * Automatically post to the [public facing HTML page.](https://thomas-dalbert.github.io/BIM/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Guide.html)
 * Not all formatting is complete, such as bullets etc. 
 * The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
-* Test initiated by Kimon Onuma, Chair of Thought Leadership - buidlingSMARTalliance 8.13.16 - Input Welcome!
-
+www.nationalbimstandard.org/).
+* Test initiated by Thomas Dalbert and Kimon Onuma, [Thought Leadership - buidlingSMARTalliance](http://www.nibs.org/?page=bsa_thought_leaders) 8.13.16 - Input Welcome!
 
 
 _________________________
