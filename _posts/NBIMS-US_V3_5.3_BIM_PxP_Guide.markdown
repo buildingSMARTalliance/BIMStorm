@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "5.3	BIM Project Execution Planning Guide – Version 2.1"
+date:   2016-08-13 10:44:00 -1000
+categories: National BIM Standard - United States® Version 3                       
+ 
+---
+
+
 ## National BIM Standard - United States® Version 3
 
 ## 5	Practice Documents
