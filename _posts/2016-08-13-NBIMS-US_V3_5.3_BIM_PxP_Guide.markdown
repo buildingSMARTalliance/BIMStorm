@@ -16,7 +16,7 @@ categories: National BIM Standard - United States® Version 3
 
 
 *
-NOTE: This is a test of using GitHub to manage standards development and documentation. This test took 10 minutes to export from PDF to WORD to Markdown format into GITHUB and then automatically post to the HTML page.
+NOTE: This is a test of using GitHub to manage standards development and documentation. This test took 10 minutes to export from PDF to WORD to Markdown format into GITHUB and then automatically post to the HTML page. Not all formatting is complete, such as bullets etc. The original PDF document is available 
 *
 
 
