@@ -52,7 +52,7 @@ _________________________
 
 _note: removed page numbers in this version_
 
-5.3.1	[Scope](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown#531---scope)	
+5.3.1	[Scope](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown#531---scope)		
 5.3.2	Normative references	
   
 5.3.3	Terms, definitions, symbols, units and abbreviated terms	
