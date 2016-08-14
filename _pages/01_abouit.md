@@ -5,9 +5,6 @@ permalink: /about/
 
 ---
 
-About content goes here.
+## About BIMStorm Github
 
-* A list item
-* Another list item
-
-BIM Roadmap to be developed as a team through [Github](https://github.com/thomas-dalbert/BIM)
+A place where documentation, code, samples, instructions and templates will be collected. [Github](https://github.com/thomas-dalbert/BIM)

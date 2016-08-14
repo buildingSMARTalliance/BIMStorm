@@ -1,7 +1,7 @@
-title: BIM Roadmap
+title: BIMStorm
 email: dalbert@onuma.com
 description: > # this means to ignore newlines until "baseurl:"
-  BIM Roadmap to be developed as a team through Github
+  A place where documentation, code, samples, instructions and templates will be collected.
 baseurl: "/BIM"
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thomas-dalbert.github.io"
