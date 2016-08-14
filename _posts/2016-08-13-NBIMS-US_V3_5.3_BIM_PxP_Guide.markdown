@@ -43,15 +43,13 @@ This test took 10 minutes to:
 * The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
 * Test initiated by Thomas Dalbert and Kimon Onuma, [Thought Leadership - buidlingSMARTalliance](http://www.nibs.org/?page=bsa_thought_leaders) 8.13.16 - Input Welcome!
 
-
 _________________________
 
-  
-  - [National BIM Standard - United States® Version 3](#national-bim-standard---united-states--version-3)
-- [5    Practice Documents](#5----practice-documents)
-    + [5.3    BIM Project Execution Planning Guide – Version 2.1](#53----bim-project-execution-planning-guide---version-21)
-    + [NOTE:](#note-)
-    + [CONTENTS](#contents)
+#### CONTENTS 
+
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
   * [5.3.1   Scope](#531---scope)
   * [5.3.2   Normative references](#532---normative-references)
   * [a) Building Information Model (BIM) Terms and Definitions](#a--building-information-model--bim--terms-and-definitions)
@@ -114,15 +112,14 @@ _________________________
   * [To comment or edit this document go to:](#to-comment-or-edit-this-document-go-to-)
   * [Influenced by:](#influenced-by-)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
+___________________
 
 
 #### CONTENTS 
 
-
-_note: removed page numbers in this version. Tested hyperlnking_
+_note: removed page numbers in this version. Teststed manual hyperlnking_
 
 5.3.1	[Scope](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown#531---scope)	
 
