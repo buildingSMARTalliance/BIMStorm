@@ -8,13 +8,16 @@ categories: raodmap
 
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
 
+by: Mike Bordenaro, Thought Leadership - buildignSMARTalliance
+
 National Institute of Building Sciences
 buildingSMART alliance
 Thought Leadership 
 
 Presents
-## 
+
 ## Government Information Management
+
 ## Illustrated White Paper
 
 August 2016
@@ -24,7 +27,6 @@ White House 21st Century Digital Strategy
 
 SEPS2BIM initiative mirrors White House Strategy
 
-### 
 ### Executive Summary:
 
 The National Institute of Building Science’s buildingSMART alliance Thought Leadership has assessed and compared the White House 21st Century Digital Strategy and the SEPS2BIM initiative, which is a unified effort of the Department of Defense Defense Health Agency, the Department of Veterans Affairs, the Department of the Navy and the Office of Management and Budget. The National Institute of Building Sciences and contracted consultants supported the SEPS2BIM initiative, which aligns information about spaces and equipment and visualizes the data in web-based Building Information Models.
