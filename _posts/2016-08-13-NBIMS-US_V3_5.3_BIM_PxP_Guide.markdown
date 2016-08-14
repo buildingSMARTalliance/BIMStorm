@@ -761,5 +761,18 @@ ________________________
 Note: You will need to be invited to view and edit on GitHub
 
 
+________________________
+
+### Influenced by:
+
+GSA’s 18F is very transparent about how they work, and prepare certain documents.
+
+The [Digital Services Playbook](https://playbook.cio.gov/#play1)
+in HTML format is facing the public.
+
+Note the button near the top that says “Help Improve This Content”
+[takes you here](https://github.com/usds/playbook#readme).
+
+A GitHub repository where the actual playbook is managed, commented and made available to the public as well.
 
 
