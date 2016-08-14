@@ -51,7 +51,7 @@ _________________________
 #### CONTENTS 
 
 
-_note: removed page numbers in this version. Teststed hyperlnking_
+_note: removed page numbers in this version. Tested hyperlnking_
 
 5.3.1	[Scope](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_posts/2016-08-13-NBIMS-US_V3_5.3_BIM_PxP_Guide.markdown#531---scope)	
 
