@@ -6,11 +6,46 @@ categories: NBIMS
  
 ---
 
-![image alt text](image_0.jpg)
+![image](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/image_0.jpg?raw=true)
 
-**National BIM Standard - United States****® ****Version 3**
+____________
 
-**1        Scope**
+#### NOTE: 
+
+This is a test of using GitHub to manage standards development and documentation. 
+
+* Export from [PDF](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.pdf) 
+* to [MS Word](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx)
+* Import to Google Docs
+* Export to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+	* [Google Docs Plug In](https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US)
+* Did some minor formatting 
+* Post to [GitHub](https://github.com) Where editing, commenting and versions can be managed for updates. 
+* As changes are made in GitHub and committed they are automatically viewable using [Jekyll.](https://jekyllrb.com)
+* Automatically post to the [public facing HTML page.
+* Not all formatting is complete, such as bullets etc. 
+* Test initiated by Thomas Dalbert and Kimon Onuma, [Thought Leadership - buidlingSMARTalliance](http://www.nibs.org/?page=bsa_thought_leaders) 8.13.16 - Input Welcome!
+
+____________
+
+  * [1        Scope](#1--------scope)
+  * [1.1       The importance of NBIMS-US™ to the industry](#11-------the-importance-of-nbims-us--to-the-industry)
+  * [1. Why is the NBIMS-US™ important to me?](#1-why-is-the-nbims-us--important-to-me-)
+  * [2. How does the NBIMS-US™ relate to the United States National CAD Standard® (NCS)?](#2-how-does-the-nbims-us--relate-to-the-united-states-national-cad-standard---ncs--)
+  * [1. Moving forward, together](#1-moving-forward--together)
+  * [1. Software developers and vendors](#1-software-developers-and-vendors)
+  * [Practice documents for implementers](#practice-documents-for-implementers)
+  * [Figure 1.2.2-1 – Tetralogy process domains](#figure-122-1---tetralogy-process-domains)
+  * [Figure 1.2.2-2 – Tetralogy topics](#figure-122-2---tetralogy-topics)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
+____________
+
+
+## National BIM Standard - United States****® ****Version 3
+
+## 1        Scope
 
 The buildings of tomorrow require robust, proven standard practices and technologies to make them cost effective, valuable, efficient, and beautiful. The practices of tomorrow need these same standards to increase productivity, mitigate risk, increase reward, and improve the stature and appreciation for their unique knowledge and leadership in the building industry. Building industry professionals in the U.S. have an opportunity to emerge from the current nexus of advanced technologies, changing processes, environmental concerns, and unique business opportunities as leaders in a positive, consensus effort to meet those challenges and provide success for all involved.
 
@@ -18,7 +53,7 @@ The National BIM Standard - United States**® **(NBIMS-US™) is a consensus doc
 
 The primary focus of the NBIMS-US™ is to provide standards to facilitate the efficient life-cycle management of the built environment supported by digital technology. This is accomplished through prescribing effective, repeatable elements and mechanisms in the creation, exchange, and management of building information modeling (BIM) data. These elements and mechanisms include reference standards of technology, classification systems, and conformance specifications; information exchange standards describing processes and exchange requirements for specific tasks during different parts of the building life-cycle; and  practice standards that  outline processes and  workflows for data modeling, management, communication, project execution, and delivery, and even contract specifications.
 
-# 1.1       The importance of NBIMS-US™ to the industry
+### 1.1       The importance of NBIMS-US™ to the industry
 
 How does the National BIM Standard-United States**® **enable positive change in the building industry? Some of the aspects include:
 
@@ -32,7 +67,7 @@ How does the National BIM Standard-United States**® **enable positive change in
 
 5. Sharing information with software vendors, as well as other product and service providers, to build solutions that support the consensus agreements of practitioners.
 
-        1. Why is the NBIMS-US™ important to me?
+###  1. Why is the NBIMS-US™ important to me?
 
 With all the expertise needed to design, procure, build, and operate a building, there are many opportunities for professionals to see unique gains and positive change in their roles. Understanding these many opportunities, whether an owner, a contractor, building product manufacturer, or a design professional, gives each stakeholder the appreciation of the gains made from implementing BIM with consensus standards. Positive aspects of such implementation include:
 
@@ -54,13 +89,13 @@ With all the expertise needed to design, procure, build, and operate a building,
 
 **9. **Increasing the overall  value of the project by providing a high-quality result, optimizing building performance and reducing operation costs over the entire life-cycle of the building.
 
-        2. How does the NBIMS-US™ relate to the United States National CAD Standard® (NCS)?
+###  2. How does the NBIMS-US™ relate to the United States National CAD Standard® (NCS)?
 
 The move from CAD to BIM is rooted in the economic and functional advantages of maturing from paper- based, redundant, and proprietary paradigms to an information-based, interoperable modeling paradigm, which, in turn, supports the functions, users, and products necessary to the lifecycle of a facility. Simply stated, the NCS addresses paper-centric drafting as a means of producing design and construction drawings.
 
 While it is anticipated that workflows in the delivery and management of building projects will continue to evolve with changes in technology, traditional construction documents remain a primary means by which project delivery information is conveyed. Printed drawings, CAD files exported from BIMs, and/or digital documents representing sheets within a construction document set still need to follow a consensus standard to ensure the project’s design, construction, or recorded electronic data is properly conveyed and understood. The NBIMS-US™ does not define standards for these types of electronic data, because the NCS already has an established consensus standard for these deliverable types. As such, there is an ongoing interconnected relationship between the NBIMS-US™ and the NCS. Both  standards  are products of the buildingSMART alliance® with participating members of the industry community. The standards work together to help ensure electronic project information is conveyed in a clear and usable format. While some portions of the NCS are superseded by BIM methodologies and technologies or are simply not applicable for BIM use, much of the NCS can be implemented within BIM processes and tools ensuring consistency for communicating intent. In general, items within the NCS which are based on manual drafting efforts, and that can alternatively be expressed by leveraging the intelligence of a BIM should be avoided.
 
-    1. Moving forward, together
+###   1. Moving forward, together
 
 Everyone is encouraged to access the content of the National BIM Standard-United States® to review its content and apply it, in whole or in part, to future projects and during the evolution of their businesses. As more owners become aware of the benefits and demand the use of BIM, all other industry professionals will have to educate themselves and take advantage of official consensus resources to provide valuable information to implement BIM in effective and efficient ways.
 
@@ -74,7 +109,7 @@ The National BIM Standard-United States® Version 3 (NBIMS-US™ V3) is designed
 
 * Practice documents for implementers who design, engineer, construct, own, and operate the built environment.
 
-        1. Software developers and vendors
+###  1. Software developers and vendors
 
 Interoperability of data and information is an absolute requirement for designing and managing the life- cycle of the built environment. Software developers and vendors must develop and support programs to achieve the seamless exchange of data and information between users. The design and coding of software standards will allow developers to efficiently accomplish this task. NBIMS-US™ V3 has delineated the appropriate standards to cover all aspects of software development.
 
@@ -86,15 +121,15 @@ Two sections within the standard provide the developer with the necessary inform
 
 The reference standards were developed by allied standards organizations. Also included are NBIMS- US™ generated reference standards. The exchange standards were written and balloted by the NBIMS- US™ project committee.
 
-        2. Practice documents for implementers
+### Practice documents for implementers
 
 This section of NBIMS-US™ V3 focuses on BIM implementation within the building industry. This section describes the necessary professional knowledge, practice and judgment for all industry disciplines and professionals as well as critical management systems and tools for the building life-cycle. Thus far in the NBIMS-US™ development process, the Practice Document section has been the least developed and documented. As BIM becomes more developed as a tool and implemented within the industry, practice procedures and standards will be developed, documented and standardized. As these practices become documented, NBIMS-US™ will become the depository for such practices.
 
 In order to structure best practices, the buildingSMART® International (BSI) has designed a system for organizing building knowledge, skills and systems into four major process domains (Tetralogy): Design, Procure, Assembly and Operate. BSI has designed the following icon to show the interrelated attributes of the four domains:
 
-![image alt text](image_1.jpg)
+![image](https://github.com/thomas-dalbert/BIM/blob/gh-pages/_files/image_1.jpg?raw=true)
 
-# Figure 1.2.2-1 – Tetralogy process domains
+### Figure 1.2.2-1 – Tetralogy process domains
 
 In order to enrich the meaning of the tetralogy, BSI has expanded the Tetralogy into 64 discreet topics reflecting and documenting the building process. The practice document section in this version of NBIMS- US™ accommodates a very few of the 64 topics found within the expanded Tetralogy:
 
@@ -256,7 +291,7 @@ In order to enrich the meaning of the tetralogy, BSI has expanded the Tetralogy 
 </table>
 
 
-# Figure 1.2.2-2 – Tetralogy topics
+### Figure 1.2.2-2 – Tetralogy topics
 
 The development of additional best practice documentation for each Tetralogy topic is the challenge and goal for future versions of NBIMS-US™.
 
