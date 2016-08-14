@@ -38,7 +38,8 @@ This test took 10 minutes to:
 * As changes are made in GitHub and committed they are automatically viewable using [Jekyll.](https://jekyllrb.com)
 * Posted [inline images to GitHub](https://raw.githubusercontent.com/thomas-dalbert/BIM/gh-pages/_files/Figure%205.3-1%20%E2%80%93%20The%20BIM%20Project%20Execution%20Planning%20Procedure.jpg?token=ADAlcfikGZXQbxTyKqn2qMqEoJvWym8Qks5XuKjrwA%3D%3D) and linked back to this document.
 * Automatically post to the [public facing HTML page.](https://thomas-dalbert.github.io/BIM/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Guide.html)
-* Not all formatting is complete, such as bullets etc. 
+* Not all formatting is complete, such as bullets etc.
+* Table of Contents generated [using this.](http://ecotrust-canada.github.io/markdown-toc/)
 * The original PDF document is available for download from buildingSMARTalliance [here](https://www.nationalbimstandard.org/).
 * Test initiated by Thomas Dalbert and Kimon Onuma, [Thought Leadership - buidlingSMARTalliance](http://www.nibs.org/?page=bsa_thought_leaders) 8.13.16 - Input Welcome!
 
