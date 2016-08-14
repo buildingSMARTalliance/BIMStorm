@@ -7,6 +7,7 @@ categories: raodmap
 ---
 
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
+by: Mike Bordenaro, Thought Leadership - buildignSMARTalliance
 
 National Institute of Building Sciences
 buildingSMART alliance
