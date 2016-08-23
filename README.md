@@ -23,3 +23,15 @@ https://thomas-dalbert.github.io/BIM/nbims/2016/08/13/NBIMS-US_V3_5.3_BIM_PxP_Gu
 
 Edit on GitHub to publish in real time to public HTML pages:
 https://github.com/thomas-dalbert/BIM/tree/gh-pages/_posts
+
+## Tools
+
+There are various Markdown editors:
+
+MOU for Mac: http://25.io/mou/
+
+Writage for MS Word: http://www.writage.com/
+
+Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
+
+Converters: http://pandoc.org/
