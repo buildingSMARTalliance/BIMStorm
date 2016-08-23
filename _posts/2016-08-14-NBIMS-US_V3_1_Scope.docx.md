@@ -45,7 +45,7 @@ ____________
 
 ## National BIM Standard - United States****® ****Version 3
 
-## 1        Scope
+## 1        Scope - TEST
 
 The buildings of tomorrow require robust, proven standard practices and technologies to make them cost effective, valuable, efficient, and beautiful. The practices of tomorrow need these same standards to increase productivity, mitigate risk, increase reward, and improve the stature and appreciation for their unique knowledge and leadership in the building industry. Building industry professionals in the U.S. have an opportunity to emerge from the current nexus of advanced technologies, changing processes, environmental concerns, and unique business opportunities as leaders in a positive, consensus effort to meet those challenges and provide success for all involved.
 
