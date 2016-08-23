@@ -1,6 +1,7 @@
 ## Welcome to the BIMStorm Data GitHub
 
 A place to collect information, data, and tools for BIMStorm.
+Public facing BIMStorm site: http://BIMStorm.com
 
 ##Why GitHub for Creating "Documents"  ??
 TED - Clay Shirky: How the Internet will (one day) transform government
