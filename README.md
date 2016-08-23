@@ -36,3 +36,8 @@ Writage for MS Word: http://www.writage.com/
 Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
 
 Converters: http://pandoc.org/
+
+## Resource
+Tools
+People
+Meetings
