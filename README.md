@@ -36,3 +36,16 @@ Writage for MS Word: http://www.writage.com/
 Google Docs Plug In: https://chrome.google.com/webstore/detail/export-as-markdown/hbojhdcnbcondcdfpfocpkjkfkbnbdad?hl=en-US
 
 Converters: http://pandoc.org/
+
+## Resource
+Tools
+People
+Meetings
+
+Digital Services Playbook :
+in HTML format facing the public:
+https://playbook.cio.gov/#play1
+
+Note the button near the top that says “Help Improve This Content”
+takes you here:
+https://github.com/usds/playbook#readme
