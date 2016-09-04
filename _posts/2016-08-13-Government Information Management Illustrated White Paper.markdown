@@ -8,7 +8,7 @@ categories: raodmap
 
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
 
-by: Mike Bordenaro, Thought Leadership - buildignSMARTalliance
+Compiled by Michael  Bordenaro, Secretary, Thought Leadership - buildignSMARTalliance
 
 National Institute of Building Sciences
 buildingSMART alliance
@@ -25,21 +25,19 @@ August 2016
        
 White House 21st Century Digital Strategy               
 
-SEPS2BIM initiative mirrors White House Strategy
+SEPS2BIM initiative mirrors White House Digital Strategy
 
 ### Executive Summary:
 
-The National Institute of Building Science’s buildingSMART alliance Thought Leadership has assessed and compared the White House 21st Century Digital Strategy and the SEPS2BIM initiative, which is a unified effort of the Department of Defense Defense Health Agency, the Department of Veterans Affairs, the Department of the Navy and the Office of Management and Budget. The National Institute of Building Sciences and contracted consultants supported the SEPS2BIM initiative, which aligns information about spaces and equipment and visualizes the data in web-based Building Information Models.
+The National Institute of Building Science’s buildingSMART alliance Thought Leadership has assessed and compared the White House 21st Century Digital Strategy and the SEPS2BIM initiative.  The SEPS2BIM initiative  combines the existing Space Equipment Planning System and web-based Building Information Models to generate dramatic productivity benefits by visualizing asset information in real time on mobile devices. The award-winning SEPS2BIM initiative is a unified effort of the Department of Defense Defense Health Agency, the Department of Veterans Affairs, the Department of the Navy and the Office of Management and Budget. The National Institute of Building Sciences and contracted consultants supported the SEPS2BIM initiative, which aligns information about spaces and equipment and visualizes the data in web-based Building Information Models.
 
 Thought Leadership, which includes government employees, association executives, business owners and employees of leading private companies, have unanimously (?) determined that the SEPS2BIM digital strategy is in alignment with the White House 21st Century Digital Strategy. The SEPS2BIM approach is flexible and therefore is suitable for customization and adoption by all Federal Agencies, State Government and Local Government. It is also suitable for all facility asset owners who want to improve efficiency and effectiveness by sharing data on mobile devices using proven, secure web services.
 
 The Government Information Management Illustrated White Paper provides an overview of how to gain dramatic benefits from sharing data on mobile devices using proven secure, web services.
 
-
-
 ### Outline
 
-* Thought Leadership Members (and Supporters?)
+* Thought Leadership Members 
 * Existing Conditions
 * Existing Standards and Regulations
 * Proven Practices
@@ -54,15 +52,14 @@ The Government Information Management Illustrated White Paper provides an overvi
 * Secretary: Michael Bordenaro - Co-founder, BIM Education Co-op
 * Members:  
 * Ilana Hellman – GSA
-* Finith Jernigan, FAIA – President, Design Atlantic, Inc. and Foresite Publishing
+* Finith Jernigan, FAIA – President, Design Atlantic, Inc. 
 * Bill Napier -  State of Wisconsin
 * Mark Sands 
 * Joe Mangenelli
 * Monte Chapman
 
-(Supporters, Jim Dieter – Executive Director, Asset Leadership Network; Shahid Shah – Office of Management and Budget Consultant; 
+ 
 
- 
 
 ### Existing Conditions
 
@@ -70,9 +67,9 @@ Business processes that result in our built environment are entrenched in Indust
 
 Information Age policies, strategies and tactical approaches are required for success at this time, August, 2016.
 
-On May 9, 2013, President Barack Obama signed an executive order making open and machine readable data the new default for government information. This 21st Century Digital Strategy calls for focus on information as an asset that can be securely shared on the web for use on mobile devices or desktop computers. This Strategy allows Government entities to gain benefits already being enjoyed by private industry. 
+On May 9, 2013, President Barack Obama signed an Executive Order making open data and machine readable data the new default for government information. This 21st Century Digital Strategy calls for focus on information as an asset that can be securely shared on the web for use on mobile devices or desktop computers. This Strategy allows Government entities to gain benefits already being enjoyed by private industry. 
 
-The Strategy results from a policy calling for decoupling of data (1) from software applications (3) using secure web services (2) to avoid creation of “Black Boxes.” Black Boxes are entrenched software platforms that do not easily share data with other software and keep information owners in one program. 
+The Strategy results from a policy calling for decoupling of data from software applications using secure web services to avoid creation of “Black Boxes.” Black Boxes are entrenched software platforms that do not easily share data with other software and keep information owners in one program. 
 
 Decoupling data from one software program and letting many people access data using a transformative number of software programs can result in mission success levels previously thought unattainable – as is demonstrated in private industry on a consistent basis.
 
