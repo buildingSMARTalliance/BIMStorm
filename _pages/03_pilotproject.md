@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Pilot Project Review
+title: Project Review
 permalink: /pilot/
 
 ---
 
-### Pilot Project Review
+### Project Review
