@@ -12,7 +12,7 @@ ____________
 
 # NOTE: 
 
-##This is a test of using GitHub to manage standards development and documentation. 
+###This is a test of using GitHub to manage standards development and documentation. Current NBIMS is publshed as static PDF files. What if in future versions of standards development uses GitHub?
 
 * Export from [PDF](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.pdf) 
 * to [MS Word](https://www.onuma.com/downloads/NBIMS-US_V3_5.3_BIM_PxP_Guide.docx)
