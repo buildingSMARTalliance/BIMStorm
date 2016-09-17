@@ -7,7 +7,8 @@ categories: BIMStorm
 ---
 ### Public
 This site is opened to the public as view only.
-To edit join the current BIMStorm: http://bimstorm.com/Data/signup.html
+To edit join the[current BIMStorm: ](http://bimstorm.com/Data/signup.html)
+
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it or add a new post.
