@@ -6,8 +6,6 @@ categories: BIMStorm
 
 ---
 
-###Projects for the BIMStorm.
-
 ________________________________
 
 #### A - Simple Excel Template with Administration and Classroom Spaces
