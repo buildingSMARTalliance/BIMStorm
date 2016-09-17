@@ -21,7 +21,8 @@ ________________________________
 #### C - SEPS Format - USACE Hangar Requirements
 * [The Excel Program Requirements File](https://www.onuma.com/downloads/C_SEPS_Format_-_USACE_Hangar_Requirements.xlsx)
 
-####[Generate a Project by uploading the Excel program requirements](http://program2bim.com/project-generator.html)
+#### Create Your Own
+* [Generate a Project by uploading the Excel program requirements](http://program2bim.com/project-generator.html)
 
 
 
