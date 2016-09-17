@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to the BIM Roadmap Blog!"
+title:  "Welcome to the BIMStorm Data Independence Blog!"
 date:   2016-08-12 14:03:45 -1000
-categories: raodmap
+categories: BIMStorm
 
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it or add a new post.
