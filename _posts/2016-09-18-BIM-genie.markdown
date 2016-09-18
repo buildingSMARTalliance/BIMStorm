@@ -16,6 +16,8 @@ categories: BIMStorm
 The UI of this App is kept simple with minimum formatting. The priority is given the reading, updating, adding, and deleting of assets (component data) to demonstrate the functioning of the APIs in BIM-cloud.com.
 The App currently makes the web service requests for every page it loads and displays the API requests on the lower right of the page. Depending on the use case for front end apps, they could use AngularJS or other frameworks to improve the efficiency of data requests.
 
+![folder](https://www.onuma.com/downloads/Asset_Tracking.088.jpg)
+
 #### Features:
 
 - The App retrieves data and displays at the bottom right the RESTful API requests made for the transactions. The focus is to demonstrate how the data can be displayed (GET), added and updated (POST), and deleted (DELETE) using those APIs in JSON format.
