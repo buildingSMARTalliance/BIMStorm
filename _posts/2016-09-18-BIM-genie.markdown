@@ -6,7 +6,7 @@ categories: BIMStorm
 
 ---
 
-### sample Front End App
+###Asset Tracking Prototype -  sample Front End App
 [BIM-genie.com](http://bim-genie.com)
 
 **Version 0.1**
