@@ -27,6 +27,11 @@ A list of tools being used and developed for the BIMStorm.
 * [SEPS2BIM](http://SEPS2BIM.org) - The Space and Equipment Planning System (SEPS) is a Department of Defense - Defense Health Agency and Department of Veterans Affairs developed and maintained tool for managing program crteria for projects and generating program for design and room contents that are used by the design team. SEPS2BIM is a series of tools with live links to SEPS data that then automatically generates the equivalent BIMs.
 * [Program2BIM](http://program2BIM.com)
 
+### Standards and Standards Development
+ * [COBie](http://wbdg.org/resources/cobie.php)
+ * [iFM - Integrated Facility Management](http://FEDifm.org)
+ * 
+
 
 ### BIM Tools
 * [Archicad](http://Graphisoft.com)
