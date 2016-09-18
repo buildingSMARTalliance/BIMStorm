@@ -11,6 +11,8 @@ categories: BIMStorm
 
 **Version 0.1**
 
+![folder](https://www.onuma.com/downloads/BIMStorm_Data_Independence_BIM_Cloud.jpg)
+
 #### Features:
 
 - Import a valid COBie file or the USACE Facility Data Workbook to BIM-cloud.com (sample files included)
