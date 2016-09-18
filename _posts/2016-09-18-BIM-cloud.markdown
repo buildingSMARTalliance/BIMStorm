@@ -7,7 +7,8 @@ categories: BIMStorm
 ---
 
 ### sample Cloud Server with JSON web service APIs
-[BIM-cloud.com](https://bim-cloud.com)
+
+<a href="http://BIM-cloud.com" target="_blank">BIM-cloud.com</a>
 
 **Version 0.1**
 
@@ -26,7 +27,7 @@ categories: BIMStorm
 
 #### Framework/Code:
 
-The prototype Cloud Server uses the free open source <a href="http://web2py.com" target="_blank">web2py</a> [web2py](http://web2py.com) framework with a few simple pages of code to import the 2 sample file formats (COBie + USACE Workbook) and to generate the RESTful web service APIs.
+The prototype Cloud Server uses the free open source <a href="http://web2py.com" target="_blank">web2py</a> framework with a few simple pages of code to import the 2 sample file formats (COBie + USACE Workbook) and to generate the RESTful web service APIs.
 
 Source code for the BIM-Cloud Server can be downloaded from here:
 [Download Source Code](https://www.onuma.com/transfer/bimcloud.zip)

@@ -8,7 +8,7 @@ categories: BIMStorm
 
 ###Asset Tracking Prototype -  sample Front End App
 
-[BIM-genie.com](http://bim-genie.com)
+<a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
 
 **Version 0.1**
 
@@ -29,7 +29,7 @@ Viewing all assets returns a complete list and displays the API requests made to
 
 #### Framework/Code:
 
-The sample Front End App uses the free open source [web2py](http://web2py.com) framework with a few simple pages of code to display, delete, create, and edit facility data through HTTP exchanges with the BIM-Cloud APIs.
+The sample Front End App uses the free open source <a href="http://web2py.com" target="_blank">web2py</a> framework with a few simple pages of code to display, delete, create, and edit facility data through HTTP exchanges with the BIM-Cloud APIs.
 
 Source code for the Front-End App can be downloaded from here:
 [Download Source Code](https://www.onuma.com/transfer/bimgenie.zip)
