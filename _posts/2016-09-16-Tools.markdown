@@ -45,7 +45,7 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 * [BIMSmith](http://BIMSmith.com)
 * [BIM Asset Tracking Prototype](https://buildingsmartalliance.github.io/BIMStorm/bimstorm/2016/09/19/BIM-genie.html)
 * [BIM Cloud](https://buildingsmartalliance.github.io/BIMStorm/bimstorm/2016/09/19/BIM-cloud.html) Prototype Open Source BIM Data Server
-* [Onuma BIM Cloud](http://Onuma.com) BIM Server for geometries and data
+* [Onuma BIM Cloud](http://www.onuma-bim.com/platform/api) BIM Server for geometries and data
 * [Onuma System](http://onuma.com)
 * [Revit](http://Revit.com)
 * [SketchUp](http://www.sketchup.com)
