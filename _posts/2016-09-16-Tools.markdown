@@ -28,8 +28,8 @@ A list of tools being used and developed for the BIMStorm.
 * [Program2BIM](http://program2BIM.com)
 
 ### Standards and Standards Development
- * [COBie](http://wbdg.org/resources/cobie.php)
- * [iFM - Integrated Facility Management](http://FEDifm.org)
+ * [COBie](http://wbdg.org/resources/cobie.php) buidlingSMART standard for structuring data for facility operations.
+ * [iFM - Integrated Facility Management](http://FEDifm.org) Prototypical standard developed for a group of facility owners in a National Institute of Building Sciences project based on COBie with extented functionality to cover facility portfolios.
  * 
 
 
