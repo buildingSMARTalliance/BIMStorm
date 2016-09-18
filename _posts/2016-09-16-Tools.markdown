@@ -17,7 +17,7 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 * [BIMplan GitHUB Source Code](https://github.com/buildingSMARTalliance/BIMplan)
 * [buildingSMARTalliance Prototype for Rapid Standards Development and Documentation](https://github.com/buildingSMARTalliance)
 * [BIMCloud](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20BIM%20Cloud.jpg) is a server of BIM data used in the BIMStorm.
-* [BIM Asset Tracking App](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20Asset%20Track.088.jpg) Using the BIM Cloud a protytpe app was developed for tracking assets and updating data.
+* [BIM Asset Tracking App](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Asset%20Tracking.088.jpg) Using the BIM Cloud a protytpe app was developed for tracking assets and updating data.
 
 ### Collaboration Tools
 
