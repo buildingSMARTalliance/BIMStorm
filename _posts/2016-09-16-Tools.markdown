@@ -29,8 +29,8 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 ### Standards Open Source and More
  * [COBie](http://wbdg.org/resources/cobie.php) buidlingSMART standard for structuring data for facility operations.
  * [iFM - Integrated Facility Management](http://FEDifm.org) Prototypical standard developed for a group of facility owners in a National Institute of Building Sciences project based on COBie with extented functionality to cover facility portfolios.
- ** Data Dictionary
-** ERD 
+  * Data Dictionary
+    *ERD 
  * [GeoJSON](http://geojson.org/) GeoJSON is a format for encoding a variety of geographic data structures. BIMStorm is inserting BIM data into GeoJSON and exploring extensions that may be needed to support BIM data.
  * [Web2Py](http://www.web2py.com/)Free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications. Written and programmable in Python. Used to parse tabular data into BIM Cloud.
  * [SQLite](https://www.sqlite.org/) SQLite is a high-reliability, embedded, zero-configuration, public-domain, SQL database engine. SQLite is the most used database engine in the world.
