@@ -13,15 +13,14 @@ categories: BIMStorm
 
 ![folder](https://www.onuma.com/downloads/Asset_Tracking.088.jpg)
 
-### Asset Tracking Prototype -Sample Front End App - Try it here
-
-<a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
 
 #### First Load Data into BIM Cloud
 
 [Load Data into BIM Cloud](https://buildingsmartalliance.github.io/BIMStorm/bimstorm/2016/09/19/BIM-cloud.html)
 
+### Then try the Asset Tracking Prototype -Sample Front End App here:
 
+<a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
 _____________________
 
 #### Notes:
