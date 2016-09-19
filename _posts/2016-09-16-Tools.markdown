@@ -23,7 +23,7 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 
 * [Trello](https://trello.com/b/b3bNRClj/bimstorm-data-independence) - Online bulletin board like tool to view and post information. 
 * [GitHub](https://github.com/buildingSMARTalliance/BIMStorm) - Collaborting on everything from documentation creation to code development. 
-* [Slack](http://slack.com)Team Communication
+* [Slack](http://slack.com) Team Communication
 * [Twitter](https://twitter.com/BIMStorm) - Messages about BIMStorm
 
 ### Owner Program Requirements
