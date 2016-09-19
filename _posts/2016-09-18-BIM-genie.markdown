@@ -11,7 +11,7 @@ categories: BIMStorm
 **Version 0.1**
 
 
-![folder](https://www.onuma.com/downloads/Asset Tracking COBie.jpg)
+![folder](https://github.com/buildingSMARTalliance/BIMStorm/tree/gh-pages/_files)
 
 
 #### First Load Data into BIM Cloud
