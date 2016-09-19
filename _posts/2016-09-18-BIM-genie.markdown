@@ -21,7 +21,10 @@ categories: BIMStorm
 ### Then try the Asset Tracking Prototype -Sample Front End App here:
 
 <a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
+
+<HR>
 _____________________
+
 
 #### Notes:
 The UI of this App is kept simple with minimum formatting. The priority is given the reading, updating, adding, and deleting of assets (component data) to demonstrate the functioning of the APIs in BIM-cloud.com.
