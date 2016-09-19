@@ -13,8 +13,8 @@ A list of tools being used and developed for the BIMStorm.
 BIMStorm and the buildingSMARTalliance are protyping open source projects for the buidling industry.
 
 * [BIMplan GeoJSON Concept](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20BIM%20Plan%20Viewer.jpg)
- * [BIMplan GeoJSON Live Viewer for BIM GIS FM](https://bim-genie.com/static/planview/portfolio.html?sysID=177)
- * [BIMplan GitHUB Source Code](https://github.com/buildingSMARTalliance/BIMplan)
+	* [BIMplan GeoJSON Live Viewer for BIM GIS FM](https://bim-genie.com/static/planview/portfolio.html?sysID=177)
+	* [BIMplan GitHUB Source Code](https://github.com/buildingSMARTalliance/BIMplan)
 * [buildingSMARTalliance Prototype for Rapid Standards Development and Documentation](https://github.com/buildingSMARTalliance) - Exploring how to rapidly evaulate, test, develop and document new workflows, stadards, and documentation to support BIM.
 * [BIMCloud](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20BIM%20Cloud.jpg) is a server of BIM data used in the BIMStorm.
 * [BIM Asset Tracking App](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Asset%20Tracking.088.jpg) Using the BIM Cloud a protytpe app was developed for tracking assets and updating data.
@@ -32,9 +32,9 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 ### Standards Open Source and More
  * [COBie](http://wbdg.org/resources/cobie.php) buidlingSMART standard for structuring data for facility operations.
  * [iFM - Integrated Facility Management](http://FEDifm.org) Prototypical standard developed for a group of facility owners in a National Institute of Building Sciences project based on COBie with extented functionality to cover facility portfolios.
-  * [More info on iFM and FEDiFM](http://FEDifm.org)
-  * [iFM Data Dictionary](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Data%20Dictionary%20FED%20iFM-4Jan2016.xlsx)
-  * [iFM ERD](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/ERD%20FED%20iFM%2011Jan2016.pdf)
+	* [More info on iFM and FEDiFM](http://FEDifm.org)
+	* [iFM Data Dictionary](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Data%20Dictionary%20FED%20iFM-4Jan2016.xlsx)
+	* [iFM ERD](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/ERD%20FED%20iFM%2011Jan2016.pdf)
  * [GeoJSON](http://geojson.org/) GeoJSON is a format for encoding a variety of geographic data structures. BIMStorm is inserting BIM data into GeoJSON and exploring extensions that may be needed to support BIM data.
  * [Web2Py](http://www.web2py.com/)Free open source full-stack framework for rapid development of fast, scalable, secure and portable database-driven web-based applications. Written and programmable in Python. Used to parse tabular data into BIM Cloud.
  * [SQLite](https://www.sqlite.org/) SQLite is a high-reliability, embedded, zero-configuration, public-domain, SQL database engine. SQLite is the most used database engine in the world.
