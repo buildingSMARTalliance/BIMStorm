@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Sample Front End App"
+title:  "Asset Tracking Prototype"
 date:   2016-09-18 14:03:45 -1000
 categories: BIMStorm
 
 ---
 
-###Asset Tracking Prototype -  sample Front End App
+### Asset Tracking Prototype -  sample Front End App
 
 <a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
 
