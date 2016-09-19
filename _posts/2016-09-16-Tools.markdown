@@ -15,7 +15,7 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 * [BIMplan GeoJSON Concept](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20BIM%20Plan%20Viewer.jpg)
  * [BIMplan GeoJSON Live Viewer for BIM GIS FM](https://bim-genie.com/static/planview/portfolio.html?sysID=177)
  * [BIMplan GitHUB Source Code](https://github.com/buildingSMARTalliance/BIMplan)
-* [buildingSMARTalliance Prototype for Rapid Standards Development and Documentation](https://github.com/buildingSMARTalliance)
+* [buildingSMARTalliance Prototype for Rapid Standards Development and Documentation](https://github.com/buildingSMARTalliance) Exploring how to rapidly evaulate, test, develop and document new workflows, stadards, and documentation to support BIM.
 * [BIMCloud](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/BIMStorm%20Data%20Independence%20BIM%20Cloud.jpg) is a server of BIM data used in the BIMStorm.
 * [BIM Asset Tracking App](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Asset%20Tracking.088.jpg) Using the BIM Cloud a protytpe app was developed for tracking assets and updating data.
 
