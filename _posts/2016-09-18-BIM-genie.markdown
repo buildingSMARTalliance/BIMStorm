@@ -6,18 +6,27 @@ categories: BIMStorm
 
 ---
 
-### Asset Tracking Prototype -  sample Front End App
 
+
+**Version 0.1**
+
+
+![folder](https://www.onuma.com/downloads/Asset_Tracking.088.jpg)
+
+### Asset Tracking Prototype -Sample Front End App - Try it here
 
 <a href="http://bim-genie.com" target="_blank">BIM-genie.com</a>
 
-**Version 0.1**
+#### First Load Data into BIM Cloud
+
+[Load Data into BIM Cloud](https://buildingsmartalliance.github.io/BIMStorm/bimstorm/2016/09/19/BIM-cloud.html)
+
+
+_____________________
 
 #### Notes:
 The UI of this App is kept simple with minimum formatting. The priority is given the reading, updating, adding, and deleting of assets (component data) to demonstrate the functioning of the APIs in BIM-cloud.com.
 The App currently makes the web service requests for every page it loads and displays the API requests on the lower right of the page. Depending on the use case for front end apps, they could use AngularJS or other frameworks to improve the efficiency of data requests.
-
-![folder](https://www.onuma.com/downloads/Asset_Tracking.088.jpg)
 
 #### Features:
 
