@@ -32,6 +32,7 @@ BIMStorm and the buildingSMARTalliance are protyping open source projects for th
 
 ### Standards Open Source and More
  * [COBie](http://wbdg.org/resources/cobie.php) buidlingSMART standard for structuring data for facility operations.
+ * [IFC](http://www.buildingsmart-tech.org/specifications/ifc-overview)	Industry Foundation Classes (IFC) are the open and neutral data format for openBIM.
  * [iFM - Integrated Facility Management](http://FEDifm.org) Prototypical standard developed for a group of facility owners in a National Institute of Building Sciences project based on COBie with extented functionality to cover facility portfolios.
 	* [More info on iFM and FEDiFM](http://FEDifm.org)
 	* [iFM Data Dictionary](https://github.com/buildingSMARTalliance/BIMStorm/blob/gh-pages/_files/Data%20Dictionary%20FED%20iFM-4Jan2016.xlsx)
