@@ -23,6 +23,9 @@ Note: for the current prototype, the files have to be saved as XLSX files.
 
 [COBie](https://www.onuma.com/transfer/Clinic_COBie.xlsx)
 
+Or use your own COBie file.
+Note: Check the vailidity of your COBie file here first: http://www.onuma-bim.com/bim-gis#COBIE-Validator
+
 _____________________
 
 #### Features:
